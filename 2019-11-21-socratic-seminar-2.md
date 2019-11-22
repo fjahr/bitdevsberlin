@@ -1,9 +1,9 @@
 ---
-layout: post
-type: socratic
-title: "Socratic Seminar #2"
-meetup: https://www.meetup.com/BitDevsNYC/events/265955993/
+layout: default
 ---
+# Socratic Seminar #2
+
+[Meetup](https://www.meetup.com/Bitcoin-Lab-Berlin/events/266339040/)
 
 Special thanks to Fulmo and Blockchain Embassy for refreshments and event space.
 
