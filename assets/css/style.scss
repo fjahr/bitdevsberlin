@@ -6,6 +6,14 @@
 
 img#logo {
   max-height: 32px;
+  margin-top: -6px;
+}
+a.site-title,
+a.site-title:link,
+a.site-title:visited,
+a.site-title:active,
+a.site-title:hover {
+  text-decoration: none;
 }
 
 span#page-header-title {
