@@ -8,6 +8,7 @@ img#logo {
   max-height: 32px;
   margin-top: -6px;
 }
+
 a.site-title,
 a.site-title:link,
 a.site-title:visited,
@@ -26,4 +27,8 @@ span#page-header-title {
        url('../fonts/ubuntu-bolditalic-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+}
+
+.post-list>li {
+  margin-bottom: 10px;
 }

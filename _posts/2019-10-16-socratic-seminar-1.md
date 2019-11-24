@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
+title: "Socratic Seminar #1"
 ---
-# Socratic Seminar #1
 
 [Meetup](https://www.meetup.com/Bitcoin-Lab-Berlin/events/263934153/)
 
