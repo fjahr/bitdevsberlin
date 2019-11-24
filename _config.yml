@@ -1,4 +1,4 @@
-title: bitdevs.berlin
+title: BitDevs Berlin
 author: The Berlin Bitcoin Developers
 email: not@available.yet
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github: fjahr/bitdevsberlin
+    github: "fjahr/bitdevsberlin"
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
