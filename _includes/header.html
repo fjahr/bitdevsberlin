@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img id="logo" src="{{ "/assets/bitdevs_berlin_logo.png" | relative_url }}">
+      <img id="logo" alt="Ampelmann by Anna Weiss from the Noun Project" src="{{ "/assets/bitdevs_berlin_logo.png" | relative_url }}">
       <span id="page-header-title">{{ site.title | escape }}</span>
     </a>
 
