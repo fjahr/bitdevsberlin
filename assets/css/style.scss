@@ -1,11 +1,5 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
-
-a#a-title:link,
-a#a-title:visited,
-a#a-title:hover,
-a#a-title:active {
-  text-decoration: none;
-}
+@import "minima-{{ site.minima.skin | default: 'classic' }}";
