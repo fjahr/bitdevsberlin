@@ -3,3 +3,19 @@
 ---
 
 @import "minima-{{ site.minima.skin | default: 'classic' }}";
+
+img#logo {
+  max-height: 32px;
+}
+
+span#page-header-title {
+  font-family: 'bitcoin', Fallback, sans-serif;
+}
+
+@font-face {
+  font-family: 'bitcoin';
+  src: url('../fonts/ubuntu-bolditalic-webfont.woff2') format('woff2'),
+       url('../fonts/ubuntu-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
