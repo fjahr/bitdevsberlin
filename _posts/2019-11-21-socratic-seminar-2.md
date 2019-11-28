@@ -44,6 +44,8 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 - [Bitcoin mining in Georgia](https://thenextweb.com/hardfork/2019/11/04/bitcoin-mining-sucking-georgia-power-grid-dry/)
 - [OXT Landscapes updated](https://twitter.com/oxt_btc/status/1192759714427408384)
 - [Hut 8 Mining Corp Q3 Financial Report](https://hut8mining.com/hut-8-mining-corp-reports-financial-results-for-the-third-quarter-of-2019)
+- [Massive UTXO consolidation over the weekend](https://twitter.com/murchandamus/status/1195090917423759360)
+- [WhatTheFee](https://whatthefee.io/)
 
 ## CVEs and Research
 
