@@ -27,11 +27,10 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 
 #### Optech
 
-- [Newsletter #72](https://bitcoinops.org/en/newsletters/2019/11/13/)
 - [Newsletter #73](https://bitcoinops.org/en/newsletters/2019/11/20/)
 - [Newsletter #74](https://bitcoinops.org/en/newsletters/2019/11/27/)
-- [Schnorr/taproot workshop on Google Colab](https://github.com/bitcoinops/taproot-workshop#google-colab-cloud)
-- [Japanese translations](https://bitcoinops.org/ja/publications/)
+- [Newsletter #75](https://bitcoinops.org/en/newsletters/2019/12/04/)
+- [Newsletter #76](https://bitcoinops.org/en/newsletters/2019/12/11/)
 
 ## Network Data
 
@@ -113,11 +112,7 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 - [Boerse Stuttgart Digital Exchange (BSDEX)](https://www.bsdex.de/en/)
 - [Deutsche Bank Research: Image 2030 study](https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000503196/Imagine_2030.pdf)
 - [Law change: EU Money Laundering Directive](https://www.bundesrat.de/SharedDocs/drucksachen/2019/0501-0600/598-19.pdf?__blob=publicationFile&v=1)
-- [Handelsblatt: SolarisBank wants to start Bitcoin custody](https://www.handelsblatt.com/finanzen/banken-versicherungen/digitalbank-solarisbank-startet-bitcoin-verwahrgeschaeft/25320638.html?ticket=ST-36099429-EJherjfaHlmhhLRTMXml-ap()
+- [Handelsblatt: SolarisBank wants to start Bitcoin custody](https://www.handelsblatt.com/finanzen/banken-versicherungen/digitalbank-solarisbank-startet-bitcoin-verwahrgeschaeft/25320638.html)
 - [Bitcoin, Electrum and Lightning node in Berlin mesh network available](https://hopglass.berlin.freifunk.net/)
 - [Berlin Meetup on Monday, 2019-12-16: Bitcoin Mining 2020](https://www.meetup.com/de-DE/Cryptocurrency-Mining-Group/events/267043861/)
 - [Bitcoin Assembly "402 Payment Required" at CCC congress 36c3](https://events.ccc.de/congress/2019/wiki/index.php/Assembly:402_Payment_Required)
-
-- []()
-- []()
-- []()
