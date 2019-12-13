@@ -35,16 +35,13 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 
 ## Network Data
 
-- [Bitcoin Cash hardfork produces 25 blocks on old chain](https://twitter.com/bitmexresearch/status/1197957855288209410)
-- [PlusToken Scam Analysis](https://twitter.com/ergobtc/status/1197496064854634496)
 - [Announcing txstats.com](https://blog.bitmex.com/announcing-txstats-com/)
-- [Mid-November Consolidation](https://twitter.com/murchandamus/status/1195090917423759360)
-- [LN BigSun Explorer](https://ln.bigsun.xyz/)
 
 ## CVEs and Research
 
 #### Research
 
+- [A Look at Innovation in Bitcoin’s Technology Stack](https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14)
 - [Bitcoin's Initial Block Download](https://blog.bitmex.com/bitcoins-initial-block-download/)
 - [Insecure Shortcuts in MuSig](https://medium.com/blockstream/insecure-shortcuts-in-musig-2ad0d38a97da)
 - [Refresh When You Wake Up: Proactive Threshold Wallets with Oﬄine Devices](https://eprint.iacr.org/2019/1328.pdf)
@@ -54,11 +51,8 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 
 - [A ransom attack on Coldcard's change and keypath verification](https://medium.com/shiftcrypto/a-ransom-attack-on-coldcards-change-and-keypath-verification-f3c71461624a)
 - [Details of the multisig change address issue and its mitigation (trezor)](https://blog.trezor.io/details-of-the-multisig-change-address-issue-and-its-mitigation-6370ad73ed2a)
-- [Linking Anonymous Transactions via Remote Side-Channel Attacks](https://crypto.stanford.edu/timings/)
 - [CLI binaries available on getmonero.org compromised](https://github.com/monero-project/monero/issues/6151)
 - [TPM-FAIL: TPM meets Timing and Lattice Attacks](http://tpm.fail/tpmfail.pdf)
-- [US Authorities Arrest Alleged SIM Swappers After Crypto Thefts](https://www.coindesk.com/us-authorities-arrest-alleged-sim-swappers-after-crypto-thefts)
-- [Vertcoin (VTC) was 51% attacked](https://gist.github.com/metalicjames/f2acdb9ef448ec5298173b36c7c54133)
 - [The Role of Dandelion Routing in “Breaking Mimblewimble’s Privacy Model”](https://medium.com/@gfanti/the-role-of-dandelion-routing-in-breaking-mimblewimbles-privacy-model-42e524d0187e)
 
 ## Pull Requests and repo updates
@@ -114,4 +108,16 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 - [STRIKE Virtual Hackathon Winners](https://medium.com/radartech/announcing-strike-hackathon-winners-5a4895708746)
 - [Stakwork Residency](https://residency.stakwork.com/)
 
-## Germany/EU
+## Europe/Germany/Berlin
+
+- [Boerse Stuttgart Digital Exchange (BSDEX)](https://www.bsdex.de/en/)
+- [Deutsche Bank Research: Image 2030 study](https://www.dbresearch.com/PROD/RPS_EN-PROD/PROD0000000000503196/Imagine_2030.pdf)
+- [Law change: EU Money Laundering Directive](https://www.bundesrat.de/SharedDocs/drucksachen/2019/0501-0600/598-19.pdf?__blob=publicationFile&v=1)
+- [Handelsblatt: SolarisBank wants to start Bitcoin custody](https://www.handelsblatt.com/finanzen/banken-versicherungen/digitalbank-solarisbank-startet-bitcoin-verwahrgeschaeft/25320638.html?ticket=ST-36099429-EJherjfaHlmhhLRTMXml-ap()
+- [Bitcoin, Electrum and Lightning node in Berlin mesh network available](https://hopglass.berlin.freifunk.net/)
+- [Berlin Meetup on Monday, 2019-12-16: Bitcoin Mining 2020](https://www.meetup.com/de-DE/Cryptocurrency-Mining-Group/events/267043861/)
+- [Bitcoin Assembly "402 Payment Required" at CCC congress 36c3](https://events.ccc.de/congress/2019/wiki/index.php/Assembly:402_Payment_Required)
+
+- []()
+- []()
+- []()
