@@ -4,8 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# Resources
-
 This is a collection of links that we deem helpful for anyone interested in diving
 deeper into the topics we are discussing at our meetups. Most of these links are
 higher level so that they stay relevant longer. You don't need to be an expert on
