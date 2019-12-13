@@ -95,6 +95,7 @@ Most of the following links were taken from the [BitDevs NYC Socratic Semainar #
 
 ## Miscellaneous
 
+- [A Look at Innovation in Bitcoins Technology Stack](https://medium.com/digitalassetresearch/a-look-at-innovation-in-bitcoins-technology-stack-7edf877eab14)
 - [Austin Bitcoin Developers Socratic Seminar 4 Transcript](https://diyhpl.us/wiki/transcripts/austin-bitcoin-developers/2019-11-19-socratic-seminar-4/)
 - [Lightning on Mobile: Neutrino in the Palm of your Hand](https://blog.lightning.engineering/posts/2019/11/21/mobile-lnd.html)
 - [lnd Mailing List](https://twitter.com/roasbeef/status/1197286544555380736)
