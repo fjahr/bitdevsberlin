@@ -41,7 +41,7 @@ Special thanks to Fulmo for organizing and c-base for event space.
 
 ### bitcoin-dev
 - [Modern Soft Fork Activation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017547.html)
-- [Taproot critique](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-February/017618.html)
+- [Taproot (and graftroot) complexity (reflowed)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-February/017618.html)
 - [Onchain fee insurance mechanism](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017601.html)
 - [Payswap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017595.html)
 - [Announcement: Discreet Log Contract Protocol Specification](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-January/017563.html)
