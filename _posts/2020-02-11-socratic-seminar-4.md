@@ -140,3 +140,15 @@ Security/CVEs/InfoSec/Research
   - b) Initiator can only receive funds through the channel
   - c) Initiator can only send funds through the channel
   - d) A node that only opens private channels can be unknown to the network
+
+### Answers
+1. c
+2. a, b
+3. b
+4. b
+5. c
+6. a
+7. c
+8. d
+9. d
+10. a, d
