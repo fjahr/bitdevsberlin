@@ -22,7 +22,7 @@ Special thanks to Fulmo for organizing and c-base for event space.
 - [Newsletter #82](https://bitcoinops.org/en/newsletters/2020/01/29/)
 - [Newsletter #83](https://bitcoinops.org/en/newsletters/2020/02/05/)
 
-Security/CVEs/InfoSec/Research
+## Security/CVEs/InfoSec/Research
 - [Characterizing Orphan Transactionsin the Bitcoin Network](https://arxiv.org/pdf/1912.11541.pdf)
 - [The Arwen Trading Protocol](https://eprint.iacr.org/2020/024)
 - [A Bitcoin Payment Network with Reduced Transaction Fees and Confirmation Times](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308850)
@@ -53,6 +53,7 @@ Security/CVEs/InfoSec/Research
 - [CHECKTEMPLATEVERIFY assigned BIP119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
   - [CTV meeting](https://twitter.com/jeremyrubin/status/1223672458516938752)
   - [Critique by gmaxwell](https://bitcointalk.org/index.php?topic=5220520.msg53699487#msg53699487)
+
 ### Bitcoin Core
 - [Taproot WIP code](https://github.com/bitcoin/bitcoin/pull/17977)
 - [p2p: supplying and using asmap to improve IP bucketing in addrman #16702](https://github.com/bitcoin/bitcoin/pull/16702)
