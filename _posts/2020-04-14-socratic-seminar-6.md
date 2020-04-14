@@ -5,11 +5,9 @@ title: "Socratic Seminar #6"
 
 [Meetup](https://www.meetup.com/Bitcoin-Lab-Berlin/events/267904131/)
 
-## Mailing Lists and Bitcoin Optech
+## Mailing Lists
 
-### Mailing Lists
-
-#### bitcoin-dev
+### bitcoin-dev
 
 - [Statechain Implementations](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017714.html)
 - [Overview of anti-covert-channel signing techniques](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017667.html)
@@ -17,7 +15,7 @@ title: "Socratic Seminar #6"
 - [Hash function requirements for Taproot](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017670.html)
 - [Mitigating Differential Power Analysis in BIP-340](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-March/017709.html)
 
-#### lightning-dev
+### lightning-dev
 
 - [Blind paths revisited](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-March/002587.html)
 - [Proof-of-closure as griefing attack mitigation](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-April/002608.html)
@@ -25,7 +23,7 @@ title: "Socratic Seminar #6"
 - [Anchor Outputs Spec & Implementation Progress](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-March/002607.html)
 - [BOLT 13(?): WatchTower protocol](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-March/002586.html)
 
-### Optech
+## Optech
 
 - [Newsletter #88](https://bitcoinops.org/en/newsletters/2020/03/11/)
 - [Newsletter #89](https://bitcoinops.org/en/newsletters/2020/03/18/)
@@ -39,15 +37,13 @@ title: "Socratic Seminar #6"
 - [Bitcoin Cash’s Halving Was Dull](https://www.coindesk.com/bitcoin-cash-halving-was-dull-bitcoins-may-be-much-the-same)
 - [Bitcoin/Bcash PoW Speed](https://fork.lol/pow/speed)
 
-## CVEs and Research
-
-### Research
+## Research
 
 - [Islamic approach toward purification of transaction with cryptocurrency](http://www.jatit.org/volumes/Vol98No6/12Vol98No6.pdf)
 - [SPECIAL SITUATION REPORT - PlusToken Issue 2](https://research.oxt.me/special-situation-report/2/preview)
 - [Schnorrless Scriptless Scripts](https://joinmarket.me/blog/blog/schnorrless-scriptless-scripts/)
 
-### InfoSec
+## InfoSec
 
 - [Covid19 Contact tracing using BTLE in iOS and Android](https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/)
 - [AMD processors from 2011 to 2019 vulnerable to two new attacks](https://www.zdnet.com/article/amd-processors-from-2011-to-2019-vulnerable-to-two-new-attacks/)
@@ -109,7 +105,7 @@ title: "Socratic Seminar #6"
 - [MIT Bitcoin Expo 2020 Videos](https://www.youtube.com/user/MITBitcoinClub/playlists)
 - [First VR Socratic](https://www.pscp.tv/w/1ynKOpzzPZWGR)
 - Bitcoin Halving around May 12: https://www.bitcoinhalving.com/
-  - [21 hour live stream](https://www.bitcoinhalving.com/21-hour-bitcoin-halving-live-stream)jG
+  - [21 hour live stream](https://www.bitcoinhalving.com/21-hour-bitcoin-halving-live-stream)
 
 ## Miscellaneous
 
