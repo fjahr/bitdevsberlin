@@ -30,6 +30,8 @@ title: "Socratic Seminar #8"
 
 ## Miscellaneous
 
+- [Bitmex Open Source Developer Grant Program](https://blog.bitmex.com/grants/)
+- [Dissecting the code responsible for the Bitcoin halving](https://ma.ttias.be/dissecting-code-bitcoin-halving/)
 - [Bitcoin Mining’s Three Body Problem](https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem)
 - [Amazon Prime Documentary: Banking On Africa - The Bitcoin Revolution](https://www.amazon.com/Banking-Africa-Revolution-Tamarin-Gerriety/dp/B088Q5BYVR)
 - [Bitcoin Transaction Size Calculator](https://jlopp.github.io/bitcoin-transaction-size-calculator/)
@@ -44,6 +46,7 @@ title: "Socratic Seminar #8"
 ### bitcoin-dev
 
 - [SAS: Succinct Atomic Swap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-May/017846.html)
+  - [Succinct Atomic Swap presentation video](https://www.youtube.com/watch?v=TlCxpdNScCA)
   - [TLA+ specification for Succint Atomic Swap](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-May/017866.html)
 - [MIN_STANDARD_TX_NONWITNESS_SIZE and OP_RETURN](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-May/017883.html)
 - [Design for a CoinSwap implementation for massively improving Bitcoin privacy and fungibility](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-May/017898.html)
