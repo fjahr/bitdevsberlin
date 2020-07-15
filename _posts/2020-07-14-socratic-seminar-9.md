@@ -87,6 +87,7 @@ title: "Socratic Seminar #9"
   - [paymod: Feature parity, finally (part 03) #3773](https://github.com/ElementsProject/lightning/pull/3773)
 
 ### LND
+
 - [REST saga 2/3: Add REST endpoints to all RPCs #4251](https://github.com/lightningnetwork/lnd/pull/4251)
 - [Intercept forward htlc #4018](https://github.com/lightningnetwork/lnd/pull/4018)
 - [multi: add a rpc endpoint to track the recovery process #4106](https://github.com/lightningnetwork/lnd/pull/4106)
