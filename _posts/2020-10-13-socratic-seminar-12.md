@@ -64,6 +64,10 @@ title: "Socratic Seminar #12"
 - [Compiler bug discussion](http://www.erisian.com.au/meetbot/bitcoin-core-dev/2020/bitcoin-core-dev.2020-09-24-19.02.log.html#l-18)
 - [Endomorphism in Secp256k1](https://github.com/bitcoin-core/secp256k1/pull/826)
 
+### lightning-dev
+
+- [Partial LND Vulnerability Disclosure, Upgrade to 0.11.x](https://lists.linuxfoundation.org/pipermail/lightning-dev/2020-October/002819.html)
+
 ## Pull requests
 
 ### BIPs, BOLTs and Proposals
