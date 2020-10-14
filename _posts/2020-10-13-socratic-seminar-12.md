@@ -55,6 +55,11 @@ title: "Socratic Seminar #12"
 - [Why we may fail Lightning](https://medium.com/@antoine.riard/why-we-may-fail-lightning-ee3692de1a55)
 - [Disconnecting Simplicity Expressions](https://medium.com/blockstream/disconnecting-simplicity-expressions-7b8ee0392fde)
 
+## Europe/Germany/Berlin
+
+- [ECB digital euro paper](https://www.ecb.europa.eu/pub/pdf/other/Report_on_a_digital_euro~4d7268b458.en.pdf)
+- [ECB digital euro survey](https://epsilon.escb.eu/limesurvey3/434111?lang=en)
+
 ## Mailing Lists
 
 ### bitcoin-dev
