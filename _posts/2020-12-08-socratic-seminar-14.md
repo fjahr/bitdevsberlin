@@ -41,9 +41,9 @@ title: "Socratic Seminar #14"
 - [Brink Foundation](https://brink.dev/)
 - [Bitcoin Design Update #2](https://bitcoindesign.substack.com/p/bitcoin-design-update-2)
 - [CoreDev 2019 Retro](https://adamjonas.com/bitcoin/coredev/retro/coredev-2019-retro/)
-- [https://bitcoinmagazine.com/articles/the-battle-for-p2sh-the-untold-story-of-the-first-bitcoin-war](The Battle For P2SH: The Untold Story Of The First Bitcoin War)
-- [Video Discussion](https://www.youtube.com/watch?v=Y4qJqeb2pw4)
-- [The Chaincode Podcast | A Podcast from Chaincode Labs about Bitcoin protocol development](https://podcast.chaincode.com/)
+- [The Battle For P2SH: The Untold Story Of The First Bitcoin War](https://bitcoinmagazine.com/articles/the-battle-for-p2sh-the-untold-story-of-the-first-bitcoin-war)
+  - [Video Discussion](https://www.youtube.com/watch?v=Y4qJqeb2pw4)
+- [The Chaincode Podcast - A Podcast from Chaincode Labs about Bitcoin protocol development](https://podcast.chaincode.com/)
 - [The Van Wirdum Sjorsnado - The Technical Side of Bitcoin on Apple Podcasts](https://podcasts.apple.com/us/podcast/the-van-wirdum-sjorsnado-the-technical-side-of-bitcoin/id1532957243)
 
 ## Pull requests
