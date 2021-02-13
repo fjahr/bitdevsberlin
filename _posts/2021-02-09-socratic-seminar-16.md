@@ -13,13 +13,20 @@ title: "Socratic Seminar #16"
 - [This Month In Bitcoin Privacy January 2021](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/January_2021/)
 
 ## Security/CVEs/InfoSec/Research
-- [Speeding up Block Propagation in BlockchainNetwork: Uncoded and Coded Designs](https://arxiv.org/abs/2101.00378)
 - [Ledger: Efforts to Protect Your Data and Prosecute The Scammers](https://www.ledger.com/blog/update-efforts-to-protect-your-data-and-prosecute-the-scammers)
+- [Bitcoin Miner Transaction Fee Gathering Capability](https://blog.bitmex.com/bitcoin-miner-transaction-fee-gathering-capability/)
 - [How Much Would it Cost to 51% Attack Bitcoin?](https://braiins.com/blog/how-much-would-it-cost-to-51-attack-bitcoin)
 - [Was there a Bitcoin double-spend on Jan 20, 2021?](https://insights.deribit.com/market-research/was-there-a-bitcoin-double-spend-on-jan-20-2021/)
-- [BitMex TX censorship research](https://blog.bitmex.com/bitcoin-miner-transaction-fee-gathering-capability/)
-- [URI Argument Injection Vulnerability in Bitcoin Core 0.18 and Earlier](https://achow101.com/2021/02/0.18-uri-vuln)
 - [Stratum V2: Migration and Decentralization](https://insights.deribit.com/market-research/stratum-v2-migration-and-decentralization/)
+- [URI Argument Injection Vulnerability in Bitcoin Core 0.18 and Earlier](https://achow101.com/2021/02/0.18-uri-vuln)
+- [Speeding up Block Propagation in BlockchainNetwork: Uncoded and Coded Designs](https://arxiv.org/abs/2101.00378)
+- [An Empirical Analysis of Privacy in the Lightning Network](https://arxiv.org/abs/2003.12470)
+- [Atomic Swaps between Bitcoin and Monero](https://arxiv.org/abs/2101.12332)
+- [The Tight Bound for Pure Price of Anarchy in an Extended Miner's Dilemma Game](https://arxiv.org/abs/2101.11855)
+
+# Berlin/Germany/Europe
+- [Übersicht BITE: Bitcoin Lightweight ClientPrivacy using Trusted Execution](https://bundscherer-online.de/downloads/pub-07-20-bite.pdf)
+- [Wirtschaftlicher Weiterbetrieb von  erneuerbaren Energieerzeugern nach  Auslauf des Förderzeitraums des EEG  mit Hilfe von Bitcoin-Mining am  Beispiel einer Windenergieanlage](https://monami.hs-mittweida.de/frontdoor/index/index/docId/11856)
 
 ## Miscellaneous
 - [Earlier MtGox payouts? No thanks to CoinLab](https://blog.wizsec.jp/2021/01/earlier-mtgox-payouts-coinlab.html)
