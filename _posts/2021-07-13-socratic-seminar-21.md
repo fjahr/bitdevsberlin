@@ -32,11 +32,6 @@ title: "Socratic Seminar #21"
 - [Germany Opens Up to Institutional Crypto Funds](https://decrypt.co/69323/damn-huge-germany-opens-up-to-institutional-crypto-funds)
 - [First crypto custody license for Coinbase](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2021/meldung_2021_06_28_Coinbase_Germany_Kryptoerlaubnis.html)
 
-## Taproot Activation Update
-
-- [murchandamus: Let's talk about Taproot!](https://twitter.com/murchandamus/status/1406812279006453760)
-- []()
-
 ## Mailing Lists
 
 ### bitcoin-dev
