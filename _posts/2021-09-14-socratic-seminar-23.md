@@ -12,6 +12,7 @@ title: "Socratic Seminar #23"
 - [eltoo with Anyprevout and Taproot](https://yakshaver.org/2021/07/26/first.html)
 - [bitcoinbinary.org - reproducable builds](https://bitcoinbinary.org/)
   - [achow thread](https://mobile.twitter.com/achow101/status/1433834858015506434)
+- [CISA writeup by n1ckler](https://github.com/ElementsProject/cross-input-aggregation#integration-into-the-bitcoin-protocol)
 
 ## Miscellaneous
 
@@ -22,6 +23,17 @@ title: "Socratic Seminar #23"
 - [Bitcoin Smiles](https://bitcoinsmiles.org/)
 - [Bitcoin Academy for Activists](https://oslofreedomforum.com/bitcoin-academy-off2021/)
 - [SeedSigner](https://seedsigner.com/)
+- [Blockstream raises $210M Series B](https://blockstream.com/2021/08/24/en-blockstream-secures-210m-series-b-financing/)
+- [Stale Block at height #697,008](https://twitter.com/BitMEXResearch/status/1429405958850203660)
+- [Lightning’s Missing Piece: A Decentralized Liquidity Market](https://medium.com/blockstream/lightnings-missing-piece-a-decentralized-liquidity-market-a0bb47534a4f)
+- [More UTXO set consolidation happening at low fee rates](https://mobile.twitter.com/murchandamus/status/1428063744295309319)
+- [Segwit usage crossing 80%](https://twitter.com/OneMorePeter/status/1437551267296038913)
+  * [BitGo defaults to Native Segwit for Change Outputs](https://twitter.com/BitGo/status/1431296700442841089)
+- [Taproot Node Support 52.58%](https://mobile.twitter.com/taproot_signal/status/1432221547574571009)
+- [New Square Crypto grant: JohnCantrell97](https://twitter.com/sqcrypto/status/1432371044174778373)
+- [New BitMEX grant: Sjors Provoost](https://twitter.com/BitMEXResearch/status/1423199968387608585)
+- [Alex Bosworth has routed 200 BTC YTD](https://twitter.com/alexbosworth/status/1433988909600411649)
+- [First Summer of Bitcoin with 51 students concludes](https://twitter.com/summerofbitcoin/status/1436371656570654720)
 
 ## Berlin/Germany/Europe
 
@@ -54,7 +66,10 @@ title: "Socratic Seminar #23"
 
 ### Bitcoin Core
 
-- [Testing Bitcoin Core 22.0 Release Candidates](https://bitcoincore.reviews/v22-rc-testing)
+- [Bitcoin Core 22.0 released](https://bitcoincore.org/en/releases/22.0/)
+  * [Bitcoin Explained - Bitcoin 22.0 explained - 32min](http://nadobtc.btc.libsynpro.com/bitcoin-core-220-explained-episode-45)
+  * [Testing Bitcoin Core 22.0 Release Candidates](https://bitcoincore.reviews/v22-rc-testing)
+  * [Bitcoin Core 22.0rc Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/22.0-Release-Candidate-Testing-Guide)
 - [wallet: Decide which coin selection solution to use based on waste metric #22009](https://github.com/bitcoin/bitcoin/pull/22009)
 - [Add a new RPC command: restorewallet #22541](https://github.com/bitcoin/bitcoin/pull/22541)
 - [wallet, rpc: add an option to list private descriptors #21500](https://github.com/bitcoin/bitcoin/pull/21500)
