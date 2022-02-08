@@ -87,7 +87,7 @@ title: "Socratic Seminar #28"
 
 - [Activate onion messages #2133](https://github.com/ACINQ/eclair/pull/2133)
 - [Replaceable txs fee bumping #2113](https://github.com/ACINQ/eclair/pull/2113)
-- [More aggressive confirmation target when low on utxos #2141](https://github.com/ACINQ/eclair/pull/2141
+- [More aggressive confirmation target when low on utxos #2141](https://github.com/ACINQ/eclair/pull/2141)
 
 ### BTCPayServer
 
