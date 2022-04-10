@@ -34,7 +34,7 @@ title: "Socratic Seminar #30"
 ## Europe/Germany/Berlin
 
 - [Status MiCA](https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-crypto-assets-1)
-- [ARTE: Sind Kryptowährungen das bessere Geld? | 42 - Die Antwort auf fast alles](https://www.youtube.com/watch?v=vOLZzlM_pG8)
+- [ARTE: Sind Kryptowährungen das bessere Geld? 42 - Die Antwort auf fast alles](https://www.youtube.com/watch?v=vOLZzlM_pG8)
 - [DWP Bank plant Bitcoin-Start in 2022](https://www.wiwo.de/kryptohandel-dwp-bank-plant-bitcoin-start-in-2022/28225208.html)
 
 ## Mailing Lists
