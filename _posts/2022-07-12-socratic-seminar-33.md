@@ -17,7 +17,7 @@ title: "Socratic Seminar #33"
 - [Spatial analysis of global Bitcoin mining](https://www.nature.com/articles/s41598-022-14987-0)
 - [The Lightning Network: Turning Bitcoin into Money](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4142590)
 - [How Brand Hive Minds Thrive: Understanding Bitcoin’s Resilience](https://cryptoeconomicsystems.pubpub.org/pub/humayun-bitcoin-brand-resilience/release/2?readingCollection=082fed82)
-- [Propagation Delay in Bitcoin Networks: Issues and Countermeasures](https://assets.researchsquare.com/files/rs-1735532/v1_covered.pdf?c=1654894677Countermeasures]()
+- [Propagation Delay in Bitcoin Networks: Issues and Countermeasures](https://assets.researchsquare.com/files/rs-1735532/v1_covered.pdf?c=1654894677Countermeasures)
 
 ## Miscellaneous
 
