@@ -9,6 +9,14 @@ title: "Socratic Seminar #34"
 
 - [Malware attack discovered on Github](https://twitter.com/stephenlacy/status/1554697077430505473)
 - [Route Blinding Proposal](https://github.com/lightning/bolts/blob/route-blinding/proposals/route-blinding.md)
+- [Mass Exit Attacks on the Lightning Network](https://arxiv.org/abs/2208.01908)
+- [A PoW-less Bitcoin with Certified Byzantine Consensus](https://arxiv.org/abs/2207.06870)
+- [Bitcoin: a new Proof-of-Work system with reduced variance](https://arxiv.org/abs/2207.05454)
+- [A coin selection strategy based on the greedy and genetic algorithm](https://link.springer.com/article/10.1007/s40747-022-00799-2)
+- [Detectable, Traceable, and Manageable Blockchain Technologies BHE: An Attack Scheme against Bitcoin P2P Network](https://downloads.hindawi.com/journals/wcmc/2022/2795004.pdf)
+- [Foundations of Coin Mixing Services](https://eprint.iacr.org/2022/942.pdf)
+- [Robust P2p Networking Connectivity Estimation Engine for Permissionless Bitcoin Cryptocurrency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4173904)
+- [CoinJoin protocols and implementations analysis](https://is.muni.cz/th/kbvx1/Master_Thesis.pdf)
 
 ## Miscellaneous
 
@@ -23,6 +31,11 @@ title: "Socratic Seminar #34"
 - [Foundry funds StratumV2 development](https://www.prnewswire.com/news-releases/foundry-makes-btc-donation-to-open-source-stratum-v2-protocol-developer-to-improve-bitcoins-proof-of-work-mining-layer-301598747.html)
 - [Border Wallets](https://bitcoinmagazine.com/technical/border-wallets-help-users-memorize-bitcoin-seed-phrases)
 
+## Europe/Germany/Berlin
+
+- [Bitcoin Zitadelle Switzerland](https://bitcoin-zitadelle.ch/)
+- [Baltic Honey Badger Riga](https://baltichoneybadger.com/)
+
 ## Mailing Lists
 
 ### bitcoin-dev
@@ -30,6 +43,7 @@ title: "Socratic Seminar #34"
 - [BIP Proposal: Receiving and Change Derivation Paths in a Single Descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
 - [On a new community process to specify covenants](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020763.html)
 - [Security problems with relying on transaction fees for security](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020702.html)
+- [Surprisingly, Tail Emission Is Not Inflationary](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020663.html)
 
 ## Pull requests
 
@@ -38,6 +52,7 @@ title: "Socratic Seminar #34"
 - [rpc, wallet: Scan mempool after import* - Second attempt #25351](https://github.com/bitcoin/bitcoin/pull/25351)
 - [Miniscript support in Output Descriptors #24148](https://github.com/bitcoin/bitcoin/pull/24148)
 - [Add Wallet Restore in the GUI #471](https://github.com/bitcoin-core/gui/pull/471)
+- [tracing: macOS USDT support](https://github.com/bitcoin/bitcoin/pull/25541)
 
 ### LND
 
@@ -55,6 +70,9 @@ title: "Socratic Seminar #34"
 
 - [Commando: "Somewhere, somehow, someone's going to pay." #5370](https://github.com/ElementsProject/lightning/pull/5370)
 - [zeroconf: Less pedantic interpretation of lightning/bolts#910 #5275](https://github.com/ElementsProject/lightning/pull/5275)
+
+### Electrum
+- [Electrum Release 4.3](https://github.com/spesmilo/electrum/blob/4.3.0/RELEASE-NOTES)
 
 ### rust-bitcoin
 
