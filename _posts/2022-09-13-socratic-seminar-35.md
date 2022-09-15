@@ -39,6 +39,7 @@ title: "Socratic Seminar #35"
 - [Bafin-Direktor warnt Banken vor Bitcoin](https://www.golem.de/news/kryptowaehrungen-bafin-direktor-warnt-banken-vor-bitcoin-2208-167610.html)
 - [Peach Bitcoin - Mobile P2P Exchange](https://peachbitcoin.com/)
 - [Bitcoin psychologische Studie](http://survey.biwi.uni-due.de/formr/Bitcoin)
+- [BitcoinOps: WIP: Style guide for german translations](https://github.com/bitcoinops/bitcoinops.github.io/pull/861)
 
 ## Mailing Lists
 
@@ -55,6 +56,10 @@ title: "Socratic Seminar #35"
 - [Supporting a custodial user who wishes to withdraw all sats from the account...](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003674.html)
 
 ## Pull requests
+
+### BIPs, BOLTs and Proposals
+
+- [Bitcoin Contracting Primitives Working Group](https://github.com/ariard/bitcoin-contracting-primitives-wg)
 
 ### Bitcoin Core
 
