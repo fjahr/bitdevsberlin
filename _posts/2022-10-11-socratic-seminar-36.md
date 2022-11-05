@@ -5,6 +5,10 @@ title: "Socratic Seminar #36"
 
 [Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/hllwtsydcnbpb/)
 
+## Project Presentation: Cashu
+
+- [Github](https://github.com/cashubtc/cashu)
+
 ## Security/CVEs/InfoSec/Research
 
 - [Lopp: Was Satoshi a Greedy Miner?](https://blog.lopp.net/was-satoshi-a-greedy-miner/)
