@@ -66,6 +66,7 @@ title: "Socratic Seminar #38"
 - [log removal reason in validation interface #26419](https://github.com/bitcoin/bitcoin/pull/26419)
 - [listunspent, add "include immature coinbase" flag #25730](https://github.com/bitcoin/bitcoin/pull/25730)
 - [Allow named and positional arguments to be used together #19762](https://github.com/bitcoin/bitcoin/pull/19762)
+- [Backports for 24.0.1 #26616](https://github.com/bitcoin/bitcoin/pull/26616)
 
 ### LND
 
