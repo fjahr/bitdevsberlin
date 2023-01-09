@@ -40,6 +40,7 @@ title: "Socratic Seminar #39"
 
 ### bitcoin-dev
 
+- [OP_VAULT: a new vault proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html)
 - [bitcoin-inquistion 23.0: evaluating soft forks on signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html)
 - [At least 17% of Bitcoin Core 24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
 
