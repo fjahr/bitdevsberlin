@@ -5,6 +5,8 @@ title: "Socratic Seminar #39"
 
 [Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/bglmzsyfccbnb/)
 
+Special thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring the food for this meetup!
+
 ## Security/CVEs/InfoSec/Research
 
 - [Towards a More Open Secure Element Chip](https://www.bunniestudios.com/blog/?p=6606)
