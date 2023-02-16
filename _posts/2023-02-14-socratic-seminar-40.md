@@ -3,7 +3,9 @@ layout: post
 title: "Socratic Seminar #40"
 ---
 
-[Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/bglmzsyfcdbsb/)
+[Meetup](https://www.meetup.com/de-DE/bitcoin-lab-berlin/events/291021075/)
+
+Special thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring the food for this very romantic Valentines Day meetup!
 
 ## Security/CVEs/InfoSec/Research
 
