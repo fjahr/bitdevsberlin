@@ -65,6 +65,7 @@ Special thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food 
 
 - [Signing support for Miniscript Descriptors #24149](https://github.com/bitcoin/bitcoin/pull/24149)
 - [wallet: be able to specify a wallet name and passphrase to migratewallet #26595](https://github.com/bitcoin/bitcoin/pull/26595)
+- [assumeutxo: background validation completion #25740](https://github.com/bitcoin/bitcoin/pull/25740)
 
 ### LND
 
