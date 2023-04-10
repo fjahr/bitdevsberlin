@@ -25,7 +25,9 @@ title: "Socratic Seminar #42"
 - [PlebFi Hackathon b4 Miami Bitcoin 2023](https://twitter.com/PlebFi/status/1643348809483980800)
 - [Lightning Prisms](https://bitkarrot.substack.com/p/lightning-prisms-with-lnbits)
 - [LocalSats](https://localsats.org/)
-- [Lightning Network Privay Explainer](https://voltage.cloud/blog/lightning-network-faq/lightning-network-privacy-explainer/)
+- [Lightning Network Privacy Explainer](https://voltage.cloud/blog/lightning-network-faq/lightning-network-privacy-explainer/)
+- [2 invalid blocks produced by F2Pool](https://twitter.com/0xB10C/status/1643871608401014785)
+- [Brian Armstrong: Lightning is great and something we’ll integrate.](https://twitter.com/brian_armstrong/status/1644794656570617856)
 
 ## Europe/Germany/Berlin
 
