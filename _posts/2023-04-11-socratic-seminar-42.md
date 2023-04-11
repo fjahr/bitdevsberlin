@@ -5,6 +5,8 @@ title: "Socratic Seminar #42"
 
 [Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/mmnpbtyfcgbpb/)
 
+Special thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drinks for this meetup!
+
 ## Security/CVEs/InfoSec/Research
 
 - [bitgo-wallet-zero-proof-vulnerability](https://www.fireblocks.com/blog/bitgo-wallet-zero-proof-vulnerability)
