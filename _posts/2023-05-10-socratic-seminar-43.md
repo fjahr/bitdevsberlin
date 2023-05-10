@@ -3,7 +3,7 @@ layout: post
 title: "Socratic Seminar #43"
 ---
 
-[Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/mmnpbtyfcgbpb/)
+[Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/ndkldtyfchbmb/)
 
 Please note that we are changing our location (now c-base) and rhythm (now second Wednesday of the month) starting with this event.
 
