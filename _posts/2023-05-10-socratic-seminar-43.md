@@ -11,11 +11,11 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 
 ## Special: Bitcoin Energy Consumption
 
-- [New Insights On Bitcoin Mining And Sustainability](https://batcoinz.com/new-insights-on-bitcoin-mining-and-sustainability/)
+- [New Insights On Bitcoin Mining And Sustainability](https://web.archive.org/web/20230324100549/https://batcoinz.com/new-insights-on-bitcoin-mining-and-sustainability/)
 - [netpositive.money sources](https://netpositive.money/sources/)
 - [Bitcoin network power demand estimations](https://ccaf.io/cbnsi/cbeci)
 - [Green your bitcoin](https://greenbitcoin.money/)
-- [The case for methane mining](https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/)
+- [The case for methane mining](https://web.archive.org/web/20230420140151/https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/)
 
 ## Security/CVEs/InfoSec/Research
 
