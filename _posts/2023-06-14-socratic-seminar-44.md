@@ -15,6 +15,7 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 - [Mint the Future with Taproot Assets v0.2 🌿🔮](https://lightning.engineering/posts/2023-05-16-taproot-assets-v0.2/)
 - [Ark - New layer 2 design](https://www.arkpill.me/)
   - [Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
+  - [BOATs](https://github.com/ark-network/boats)
 - [Miner Fee Gathering Capability (Part 2) – Out of Band Fees](https://blog.bitmex.com/miner-fee-gathering-capability-part-2-out-of-band-fees/)
 - [Security and Performance Analysis of Elliptic Curve Crypto System using Bitcoin Curves](https://www.researchgate.net/profile/Mdsameeruddin-Khan/publication/370939924_Security_and_Performance_Analysis_of_Elliptic_Curve_Crypto_System_using_Bitcoin_Curves/links/646b244127938813482b95d2/Security-and-Performance-Analysis-of-Elliptic-Curve-Crypto-System-using-Bitcoin-Curves.pdf)
 - [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts](https://zhengpeilin.com/research/BSHunter.pdf)
