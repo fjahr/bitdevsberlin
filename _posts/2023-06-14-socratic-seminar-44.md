@@ -32,6 +32,17 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 - [ECB CBDC prototype summary](https://www.ecb.europa.eu/pub/pdf/other/ecb.prototype_summary20230526~71d0b26d55.en.pdf)
 - [Bitcoin Core 25.0 release notes](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-25.0.md)
 
+## Network Data
+
+- [Fees retreating after peak in May 2023, higher base](https://bitcoinvisuals.com/chain-fees-day)
+- [12M Inscriptions paid $45M YTD](https://dune.com/dgtl_assets/bitcoin-ordinals-analysis)
+
+## Europe/Germany/Berlin
+
+- [NRW tax office received bitcoin.de customer data](https://www.spiegel.de/panorama/nordrhein-westfalen-steuerermittlungen-gegen-nutzer-von-kryptowaehrungs-plattformen-a-14f68845-d9b7-44b8-832f-a120e74b6fe5?sara_ref=re-so-app-sh)
+- [Binance sperrt Handel mit Privacy Coins in Teilen der EU](https://www.heise.de/news/Monero-und-Co-Binance-schraenkt-Handel-mit-Privacy-Coins-in-Teilen-der-EU-ein-9154905.html)
+- [ECB CBDC prototype summary](https://www.ecb.europa.eu/pub/pdf/other/ecb.prototype_summary20230526~71d0b26d55.en.pdf)
+
 ## Mailing Lists
 
 ### bitcoin-dev
