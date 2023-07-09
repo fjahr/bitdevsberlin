@@ -7,6 +7,10 @@ title: "Socratic Seminar #45"
 
 Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drinks for this meetup!
 
+## Special: BIP300/Drivechains
+
+- [BIP300](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki)
+
 ## Security/CVEs/InfoSec/Research
 
 - [Bitcoin as a Nonviolent Tool Against State Financial Censorship](https://www.doria.fi/handle/10024/187407)
