@@ -10,12 +10,14 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 ## Special: BIP300/Drivechains
 
 - [BIP300](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki)
+- [BIP300 Whiteboard Video](https://www.youtube.com/watch?v=JwIoTaJQNi0)
 
 ## Security/CVEs/InfoSec/Research
 
 - [Bitcoin as a Nonviolent Tool Against State Financial Censorship](https://www.doria.fi/handle/10024/187407)
 - [A Dive Into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 - [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
+- [The many faces of Schnorr](https://eprint.iacr.org/2023/1019)
 
 ## Miscellaneous
 - [Putting the B in BTC](https://www.erisian.com.au/wordpress/2023/06/21/putting-the-b-in-btc)
@@ -26,6 +28,7 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 - [BIP39 Colors](https://enteropositivo.github.io/bip39colors/)
 - [PDK: A Payjoin SDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
 - [CivKit Node](https://github.com/civkit/civkit-node)
+- [Phoenix update](https://acinq.co/blog/phoenix-splicing-update)
 
 ## Europe/Germany/Berlin
 
@@ -40,8 +43,13 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 ### lighting-dev
 
 - [Proposal: Bundled payments](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003977.html)
+- [Security: BOLT-11 "payment hash" does not commit to payment!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003983.html)
 
 ## Pull requests
+
+### BIPs, BOLTs and Proposals
+
+- [ANYPREVOUT without ANYONECANPAY](https://github.com/bitcoin/bips/pull/1472)
 
 ### Bitcoin Core
 
@@ -51,6 +59,10 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 ### Eclair
 
 - [Record begin and end timestamps for relays #2701](https://github.com/ACINQ/eclair/pull/2701)
+
+### LND
+
+- [LND fix for memory leak](https://github.com/lightningnetwork/lnd/releases/tag/v0.16.4-beta)
 
 ### BDK & LDK
 
