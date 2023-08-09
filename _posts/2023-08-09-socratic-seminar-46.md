@@ -18,6 +18,10 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic](https://gfw.report/publications/usenixsecurity23/en/)
 - [Covenants in Bitcoin: A Useful Review Taxonomy](https://rusty.ozlabs.org/2023/07/09/covenant-taxonomy.html)
 - [Towards a trustless bitcoin wallet with miniscript](https://www.ledger.com/blog/towards-a-trustless-bitcoin-wallet-with-miniscript)
+- [PHD thesis about new watchtower FPPW and new payment channel Daric](https://bridges.monash.edu/articles/thesis/Layer-2_Solutions_for_Bitcoin_Scalability/23788107)
+- [TeleBTC: Trustless Wrapped Bitcoin](https://arxiv.org/abs/2307.13848)
+- [Temporal and Geographical Analysis of Real Economic Activities in the Bitcoin Blockchain](https://arxiv.org/abs/2307.08616)
+- [Entropy bug in Libbitcoin Explorer: Milk Sad](https://milksad.info/)
 
 ## Miscellaneous
 
@@ -29,6 +33,16 @@ Thanks to [Wasabi Wallet](https://wasabiwallet.io/) for sponsoring food and drin
 - [War and Lightning Network](https://notgeld.medium.com/war-and-lightning-network-86f30cdc5c09)
 - [Mutiny Wallet beta release](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
 - [Matador: A Bitcoin-Powered Passthrough Server](https://github.com/Kodylow/matador)
+- [Bitmex: Drivechains](https://blog.bitmex.com/drivechains/)
+- [Galaxy Mining: 2023 Bitcoin Mining Mid-Year Report](https://www.galaxy.com/insights/research/2023-mid-year-mining/)
+
+## Network Data
+
+- [Revisiting Bitcoin Network Bandwidth Issues](https://blog.lopp.net/revisiting-bitcoin-network-bandwidth-issues/)
+
+## Europe/Germany/Berlin
+
+- [Bitcoin im Bundestag](https://bitcoin-im-bundestag.de/)
 
 ## Mailing Lists
 
