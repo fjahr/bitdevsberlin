@@ -22,6 +22,7 @@ title: "Socratic Seminar #47"
 - [Tether stops support for Bitcoin / OmniLayer](https://tether.to/en/tether-makes-strategic-transition-to-meet-community-demands-and-foster-innovation/)
 - [Electrum server performance report (2022)](https://blog.keys.casa/electrum-server-performance-report-2022/)
 - [Simp-lang - Simplicity DSL POC](https://github.com/sanket1729/simp-lang)
+- [Tell Congress: Stop The Use Of Chainalysis Services](https://www.change.org/p/tell-congress-stop-the-use-of-chainalysis-services)
 
 ## Mailing Lists
 
