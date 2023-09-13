@@ -13,6 +13,10 @@ title: "Socratic Seminar #47"
 - [A Review of the Lightning Network’s Evolution: Unraveling Its Present State and the Emergence of Disruptive Digital Business Models](https://www.mdpi.com/0718-1876/18/3/68)
 - [revised: Bulletproofs++: Next Generation Confidential Transactions via Reciprocal Set Membership Arguments](https://eprint.iacr.org/2022/510)
 - [simln](https://github.com/bitcoin-dev-project/sim-ln)
+- [The Illumination of Money: An Ethnography of Bitcoin in El Salvador](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1781391&dswid=1461)
+- [FROSTDAO: Collective Ownership of wealth using FROST](https://repository.tudelft.nl/islandora/object/uuid:f45f85a0-b634-43d9-bd18-2bd9398d2c13)
+- [CHAUSSETTE: A Symbolic Verification of Bitcoin Scripts](https://orbi.uliege.be/handle/2268/305862)
+- [Bitcoin electricity consumption: an improved assessment](https://www.jbs.cam.ac.uk/2023/bitcoin-electricity-consumption/)
 
 ## Miscellaneous
 
@@ -23,6 +27,11 @@ title: "Socratic Seminar #47"
 - [Electrum server performance report (2022)](https://blog.keys.casa/electrum-server-performance-report-2022/)
 - [Simp-lang - Simplicity DSL POC](https://github.com/sanket1729/simp-lang)
 - [Tell Congress: Stop The Use Of Chainalysis Services](https://www.change.org/p/tell-congress-stop-the-use-of-chainalysis-services)
+- [Coinbase to integrate Lightning](https://nitter.com/brian_armstrong/status/1701806701853507886)
+
+## Europe/Germany/Berlin
+
+- [Ordimint in NYC: Berliner Start-up nahm an Bitcoin-Accelerator-Programm teil!](https://www.blocktrainer.de/ordimint-in-nyc-nydig/)
 
 ## Mailing Lists
 
