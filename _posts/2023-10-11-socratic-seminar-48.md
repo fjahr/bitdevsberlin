@@ -15,6 +15,7 @@ title: "Socratic Seminar #48"
 - [Don’t overextend your Oblivious Transfer](https://blog.trailofbits.com/2023/09/20/dont-overextend-your-oblivious-transfer/)
 - [Undetectable Selfish Mining](https://browse.arxiv.org/pdf/2309.06847.pdf)
 - [Our Data Driven Approach to Fixing Payment Reliability](https://blog.mutinywallet.com/fixing-payment-reliability/)
+- [BitVM](https://bitvm.org/bitvm.pdf)
 
 ## Miscellaneous
 
