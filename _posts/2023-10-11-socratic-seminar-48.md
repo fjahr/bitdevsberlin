@@ -5,6 +5,8 @@ title: "Socratic Seminar #48"
 
 [Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/294115696/)
 
+Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for this meetup!
+
 ## Security/CVEs/InfoSec/Research
 
 - [ZeroSync demo](https://zerosync.org/demo/)
@@ -16,6 +18,9 @@ title: "Socratic Seminar #48"
 - [Undetectable Selfish Mining](https://browse.arxiv.org/pdf/2309.06847.pdf)
 - [Our Data Driven Approach to Fixing Payment Reliability](https://blog.mutinywallet.com/fixing-payment-reliability/)
 - [BitVM](https://bitvm.org/bitvm.pdf)
+- [River Lightning Report 2023](https://river.com/learn/files/river-lightning-report-2023.pdf)
+- [Evicting and filling attack for linking multiple network addresses of Bitcoin nodes](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00182-9)
+- [Understanding BRC-20: Hope or Hype?](https://www.techrxiv.org/articles/preprint/Understanding_BRC-20_Hope_or_Hype/24233806)
 
 ## Miscellaneous
 
@@ -26,6 +31,7 @@ title: "Socratic Seminar #48"
 - [Coinjoins.org](https://www.coinjoins.org/)
 - [Delving Bitcoin Forum](https://delvingbitcoin.org/)
 - [Covenant Tools Softfork Discussion](https://delvingbitcoin.org/t/covenant-tools-softfork/98)
+- [SimLN](https://simln.dev/)
 
 ## Network Data
 
@@ -33,6 +39,7 @@ title: "Socratic Seminar #48"
 - [Invalid Marathon Block](https://twitter.com/0xB10C/status/1706937041739530556)
 - [Invalid MARAPool block 809478](https://b10c.me/observations/07-invalid-block-809478/)
 - [Hunting the Real Bitcoin Network Hashrate](https://blog.lopp.net/hunting-the-real-bitcoin-network-hashrate/)
+- [Mempool processing 1 sat/vB transactions after 6 months](https://jochen-hoenicke.de/queue/#BTC,1y,count)
 
 ## Europe/Germany/Berlin
 
@@ -68,6 +75,7 @@ title: "Socratic Seminar #48"
 - [rpc: allow submitpackage to be called outside of regtest #27609](https://github.com/bitcoin/bitcoin/pull/27609)
 - [MiniTapscript: port Miniscript to Tapscript #27255](https://github.com/bitcoin/bitcoin/pull/27255)
 - [Gathering Priorities for 27.0 #28599](https://github.com/bitcoin/bitcoin/issues/28599)
+- [Covenant tools softfork](https://github.com/bitcoin/bitcoin/pull/28550)
 
 ### LND
 
