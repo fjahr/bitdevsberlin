@@ -34,6 +34,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Doppler - A lightning DSL](https://voltage.cloud/blog/bitcoin-development-platform/doppler-a-lightning-domain-specific-language/)
 - [Taproot Assets on Mainnet](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 - [ANNOUNCING THE $12K NIST ELLIPTIC CURVES SEEDS BOUNTY](https://words.filippo.io/dispatches/seeds-bounty/)
+- [Payjoin for a Better Bitcoin Future](https://brandonlucas.net/articles/bitcoin/payjoin)
 
 ## Europe/Germany/Berlin
 
@@ -65,7 +66,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [coinstats, assumeutxo: fix hash_serialized2 calculation #28685](https://github.com/bitcoin/bitcoin/pull/28685)
 - [Make miniscript GetWitnessSize accurate for tapscript #28651](https://github.com/bitcoin/bitcoin/pull/28651)
 - [v26.0 Testing #28718](https://github.com/bitcoin/bitcoin/issues/28718)
-- [Download](https://bitcoincore.org/bin/bitcoin-core-26.0/test.rc2/)
+  - [Download](https://bitcoincore.org/bin/bitcoin-core-26.0/test.rc2/)
 
 ### LND
 
