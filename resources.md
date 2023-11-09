@@ -17,6 +17,7 @@ things are. Please inform us if you find broken or outdated links.
 - [Bitcoin-dev Mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 - [Secp256k1](https://github.com/bitcoin-core/secp256k1/pull/558): Elliptic Curve cryptography library used by Bitcoin Core
 - [Bitcoin.org Developer Guide](https://bitcoin.org/en/developer-guide): Higher level technical guides
+- [Jameson Lopp's Bitcoin Page](https://lopp.net/bitcoin): List of resources collected by Jameson Lopp
 
 ## Lightning
 - [Original Lightning Network Whitepapeer](https://lightning.network/lightning-network-paper.pdf)
