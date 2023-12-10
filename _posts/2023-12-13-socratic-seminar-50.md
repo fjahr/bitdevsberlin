@@ -11,10 +11,14 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [BitStream](https://robinlinus.com/bitstream.pdf)
 - [BNS: A Detection System to Find Nodes in the Bitcoin Network](https://www.mdpi.com/2227-7390/11/24/4885)
-- [ Less Is More: Understanding Network Bias in Proof-of-Work Blockchains ](https://www.mdpi.com/2227-7390/11/23/4741)
+- [Less Is More: Understanding Network Bias in Proof-of-Work Blockchains ](https://www.mdpi.com/2227-7390/11/23/4741)
 - [Heuristics for Detecting CoinJoin Transactions on the Bitcoin Blockchain](https://arxiv.org/abs/2311.12491)
 - [UNU WIDER: The political economy of Bitcoin as legal tender
 in El Salvador](https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2023-136-political-economy-Bitcoin-legal-tender-El-Salvador.pdf)
+- [Bitcoin.js Vulnerability](https://twitter.com/bax1337/status/1724534339206033532)
+- [Blake3 BitVM Transaction](https://twitter.com/robin_linus/status/1721969594686926935)
+- [M&M'S: Mix and Match Attacks on Schnorr-type Blind Signatures with Repetition](https://eprint.iacr.org/2023/1588)
+- [Heuristics for Detecting CoinJoin Transactions on the Bitcoin Blockchain](https://arxiv.org/abs/2311.12491v1)
 
 ## Miscellaneous
 
@@ -34,6 +38,9 @@ in El Salvador](https://www.wider.unu.edu/sites/default/files/Publications/Worki
 - [Block releases Bitkey hardware wallet](https://bitkey.world/en-US)
 - [Perl Advent: Santa tackles Bitcoin, part one](https://perladvent.org/2023/2023-12-02.html)
 - [opcode explained](https://opcodeexplained.com/)
+- [Ordpool.space](https://ordpool.space/)
+- [Better Bitcoin QR](https://bbqr.org/)
+- [BitEscrow Demo](https://stacker.news/items/300057)
 
 ## Network Data
 
