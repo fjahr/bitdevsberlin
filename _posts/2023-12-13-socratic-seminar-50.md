@@ -33,6 +33,7 @@ in El Salvador](https://www.wider.unu.edu/sites/default/files/Publications/Worki
 - [Wallet of Satoshi exits US Appstores](https://twitter.com/walletofsatoshi/status/1727937085741678679)
 - [Block releases Bitkey hardware wallet](https://bitkey.world/en-US)
 - [Perl Advent: Santa tackles Bitcoin, part one](https://perladvent.org/2023/2023-12-02.html)
+- [opcode explained](https://opcodeexplained.com/)
 
 ## Network Data
 
@@ -89,3 +90,7 @@ in El Salvador](https://www.wider.unu.edu/sites/default/files/Publications/Worki
 ### Core Lightning
 
 - [Clnrest: update config param with cln prefix #6857](https://github.com/ElementsProject/lightning/pull/6857)
+
+### Secp256k1
+
+- [field: Remove x86_64 asm #1446](https://github.com/bitcoin-core/secp256k1/pull/1446)
