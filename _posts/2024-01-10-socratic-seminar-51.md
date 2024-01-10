@@ -19,6 +19,9 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Rational Economic Behaviours in the Bitcoin Lightning Network](https://arxiv.org/pdf/2312.16496.pdf)
 - [CPU usage of peers](https://delvingbitcoin.org/t/cpu-usage-of-peers/196/2)
 - [Comparing the Lightning Network to validia chains and validity rollups](https://lightco.in/2023/12/13/lightning-validia-rollups/)
+- [AI generated Bitcoin Core Wiki-style documentation](https://wiki.mutable.ai/bitcoin/bitcoin)
+- [Mercury Layer](https://mercurylayer.com/)
+- [Bitcoin Layer Two Scaling Solutions:Lightening Payment Channels Network Comprehensive Review, Mechanisms, Challenges, Open Issues and Future Research Directions](https://journal.esj.edu.iq/index.php/IJCM/article/view/873/332)
 
 ## Miscellaneous
 
