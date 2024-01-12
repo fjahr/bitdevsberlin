@@ -22,6 +22,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [AI generated Bitcoin Core Wiki-style documentation](https://wiki.mutable.ai/bitcoin/bitcoin)
 - [Mercury Layer](https://mercurylayer.com/)
 - [Bitcoin Layer Two Scaling Solutions:Lightening Payment Channels Network Comprehensive Review, Mechanisms, Challenges, Open Issues and Future Research Directions](https://journal.esj.edu.iq/index.php/IJCM/article/view/873/332)
+- [Feldman’s Verifiable Secret Sharing for a Dishonest Majority](https://eprint.iacr.org/2024/031.pdf)
 
 ## Miscellaneous
 
@@ -35,6 +36,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [LN Symetry Recap](https://delvingbitcoin.org/t/ln-symmetry-project-recap/359)
 - [Bitcoin Elftrace](https://github.com/halseth/elftrace)
 - [Ark Developer Hub](https://arkdev.info/)
+- [Introduce sCrypt: a Layer-1 Smart Contract Framework for BTC](https://xiaohuiliu.medium.com/introduce-scrypt-a-layer-1-smart-contract-framework-for-btc-b8b39c125c1a)
 
 ## Europe/Germany/Berlin
 
