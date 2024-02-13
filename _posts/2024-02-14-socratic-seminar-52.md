@@ -37,11 +37,13 @@ This also means we will only discuss a few selected topics from the list below. 
 - [Transaction Stacking for Covenant Fee Minimization](https://rusty.ozlabs.org/2024/01/08/txhash-tx-stacking.html)
 - [OP_SEGMENT: Allowing Introspection to Check Partial Scripts](https://rusty.ozlabs.org/2024/01/04/OP_SEGMENT.html)
 - [Pay-to-Tapscript: Keyless Entry For Better Future Scripting](https://rusty.ozlabs.org/2024/01/16/pay-to-tapscript.html)
+- [Banco: Non-interactive swaps](https://vulpem.medium.com/banco-non-interactive-swaps-00d042791e06)
 
 ## Network Data
 
 - [Hashrate Index 2023 Bitcoin Mining Year in Review](https://hashrateindex.com/blog/hashrate-index-2023-bitcoin-mining-year-in-review/)
 - [An overview of recent non-standard transactions](https://b10c.me/observations/09-non-standard-transactions/)
+- [Tracking electricity consumption from U.S. cryptocurrency mining operations](https://www.eia.gov/todayinenergy/detail.php?id=61364)
 
 ## Europe/Germany/Berlin
 
