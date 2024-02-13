@@ -38,6 +38,7 @@ This also means we will only discuss a few selected topics from the list below. 
 - [OP_SEGMENT: Allowing Introspection to Check Partial Scripts](https://rusty.ozlabs.org/2024/01/04/OP_SEGMENT.html)
 - [Pay-to-Tapscript: Keyless Entry For Better Future Scripting](https://rusty.ozlabs.org/2024/01/16/pay-to-tapscript.html)
 - [Banco: Non-interactive swaps](https://vulpem.medium.com/banco-non-interactive-swaps-00d042791e06)
+- [Serving legal notice as OP_RETURN](https://krebsonsecurity.com/2024/01/heres-some-bitcoin-oh-and-youve-been-served/)
 
 ## Network Data
 
