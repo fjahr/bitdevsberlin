@@ -17,6 +17,7 @@ We will also have a guest with a short presentation on some unreleased bitcoin r
 - [Topology Discovery within the Bitcoin Network](https://repositum.tuwien.at/handle/20.500.12708/193929?mode=full)
 - [A Better Proof-of-Work Fork Choice Rule](https://eprint.iacr.org/2024/200.pdf)
 - [T.I.D.E.S. - A Fair Bitcoin Mining Pool Reward System](https://ocean.xyz/docs/tides)
+    - [Bitcoin Stack Exchange Explainer](https://bitcoin.stackexchange.com/questions/120719/how-does-ocean-s-tides-payout-scheme-work)
 - [DLCVM - Generalized, Unboundedly Scalable Computation on Bitcoin](https://dlcvm.tiiny.site/)
 - [Modular Indexer: Fully User-Verified Execution Layer for Meta-Protocols on Bitcoin](https://eprint.iacr.org/2024/408)
 - [My two Bitcoins? Implementation of Double-Spending on Fast Bitcoin Payments](https://ccc.inaoep.mx/~jcp.sansalvador/my_two_bitcoins.pdf)
