@@ -45,6 +45,7 @@ We will also have a guest with a short presentation on some unreleased bitcoin r
 - [Let coinbase pay your on-chain fees](https://twitter.com/dannydiekroeger/status/1758217480454148283)
 - [GroupHug Server - PSBT batching](https://github.com/Peach2Peach/groupHug)
 - [Scaling Bitcoin Apps with NWC](https://blog.getalby.com/scaling-bitcoin-apps/)
+- [Crypto ‘Mixer’ Convicted of Money Laundering on Bitcoin Fog](https://archive.is/Qci5M)
 
 ## Europe/Germany/Berlin
 
