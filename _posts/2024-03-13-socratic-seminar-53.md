@@ -7,7 +7,10 @@ title: "Socratic Seminar #53"
 
 Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for this meetup!
 
-We will also have a guest with a short presentation on some unreleased bitcoin research.
+We will have [Rene Pickhardt](https://twitter.com/renepickhardt) as a guest presenter with a short talk on his latest research on lightning network limitiations in the form of likelyhood of payment possibility:
+
+- [Code](https://github.com/renepickhardt/Lightning-Network-Limitations)
+- [Discussion](https://stacker.news/items/412708)
 
 ## Security/CVEs/InfoSec/Research
 
