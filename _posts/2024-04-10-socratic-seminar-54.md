@@ -10,6 +10,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ## Security/CVEs/InfoSec/Research
 
 - [ViaBTC's mutated blocks without witness data](https://b10c.me/observations/10-viabtc-blocks-without-witness-data/)
+- [Vulnerability Disclosure: Wasting ViaBTC's 60 EH/s hashrate by sending a P2P message](https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/)
 - [Introducing SRI 1.0.0 - the most important milestone in our Stratum V2 journey!](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [ASIC Ultraboost and ASIC EnhancedBoost](https://www.ft.com/content/8aa731a0-5456-4121-a2f7-828ae90ed199)
 - [Efficient and Reliable Service Detection on Bitcoin](https://orbi.uliege.be/handle/2268/314439)
