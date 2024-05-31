@@ -59,7 +59,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [BIP2: update BIP editors](https://github.com/bitcoin/bips/commit/fa95e343886ee28e2c10b5bcbd93e15441bf55a4)
 - [BIP 331: Ancestor Package Relay](https://github.com/bitcoin/bips/blob/master/bip-0331.mediawiki)
-- [Opcode Restauration BIP draft](https://github.com/rustyrussell/bips/commit/c2f268e83031b9b67e798c5c72a1171bfc463d1f)
+- [Segwit Version 2 Script Interpretation Draft](https://github.com/rustyrussell/bips/commit/c2f268e83031b9b67e798c5c72a1171bfc463d1f)
 
 ### Bitcoin Core
 
