@@ -31,6 +31,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [blindbitd: A Bip352 silent payment wallet which runs as daemon](https://github.com/setavenger/blindbitd)
 - [ValidiTEE: a Validating Lightning Signer (VLS) service that runs inside a secure enclave](https://github.com/msgilligan/ValidiTEE)
 - [Bitcoin Core vulnerability disclosure policy discussions report](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
+- [ZK Rollup on Bitcoin: Technical Whitepaper](https://github.com/alpenlabs/Technical-Whitepaper/blob/main/whitepaper_v085.pdf)
 
 ## Network Data
 
