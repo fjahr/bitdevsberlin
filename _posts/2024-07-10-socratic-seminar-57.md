@@ -28,6 +28,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Blocksize increase proposals historical review](https://x.com/ajtowns/status/1798185661570441383)
 - [CoinPile](https://x.com/JeremyRubin/status/1797315646327345538)
 - [Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
+- [Definitive explanation of the weird Bitcoin transaction](https://stacker.news/items/600187)
 
 ## Network Data
 
