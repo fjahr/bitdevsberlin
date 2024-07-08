@@ -18,6 +18,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Dynamic-FROST: Schnorr Threshold Signatures with a Flexible Committee](https://eprint.iacr.org/2024/896)
 - [Concurrently Secure Blind Schnorr Signatures](https://eprint.iacr.org/2022/1676.pdf)
 - [Cryptocurrency mining as a novel virtual energy storage system in islanded and grid-connected microgrids](https://www.sciencedirect.com/science/article/pii/S0142061524001364)
+- [BACH: A Tool for Analyzing Blockchain Transactions Using Address Clustering Heuristics](https://www.preprints.org/manuscript/202406.1956/v1)
+    - [Code](https://github.com/semifredd0/BACH-tool)
 
 ## Miscellaneous
 
