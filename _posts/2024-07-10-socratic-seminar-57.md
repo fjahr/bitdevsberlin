@@ -55,6 +55,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ### BIPs, BOLTs and Proposals
 
+- [ChillDKG: Distributed Key Generation for FROST](https://github.com/BlockstreamResearch/bip-frost-dkg)
 - [328, 390, 373: BIPs for MuSig2 derivation, descriptors, and PSBT fields #1540](https://github.com/bitcoin/bips/pull/1540)
 - [Add BIP 353: DNS Payment Instructions #1551](https://github.com/bitcoin/bips/pull/1551)
 
