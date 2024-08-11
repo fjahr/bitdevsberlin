@@ -19,7 +19,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bribe & Fork: Cheap Bribing Attacks via Forking Threat](https://arxiv.org/abs/2402.01363v2)
 - [Adaptor Signatures: New Security Definition and A Generic Construction for NP Relations](https://eprint.iacr.org/2024/1051)
 - [From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing](https://par.nsf.gov/biblio/10509863)
-- [RFC 9591The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures](https://www.rfc-editor.org/rfc/rfc9591.html)
+- [RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures](https://www.rfc-editor.org/rfc/rfc9591.html)
 - [Shared-Custodial Password-Authenticated Deterministic Wallets](https://eprint.iacr.org/2024/1118)
 - [Towards a Formal Foundation for Blockchain Rollups](https://arxiv.org/pdf/2406.16219v1)
 - [Unforgeability of Blind Schnorr in the Limited Concurrency Setting](https://eprint.iacr.org/2024/1100)
