@@ -41,7 +41,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Fedi Launch Event](https://www.fedi.xyz/fedi-launch-event)
 - [Mutiny Wallet shuts down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
 - [Marathon Slipstream](https://slipstream.mara.com/)
-- [Mines "OP_CAT" transaction](https://mempool.space/tx/51bae58fa9d413b86d74da60d5366987dcdeb0586d39b93b2ca22f9e40dc83de?mode=details)
+    - [Mines "OP_CAT" transaction](https://mempool.space/tx/51bae58fa9d413b86d74da60d5366987dcdeb0586d39b93b2ca22f9e40dc83de?mode=details)
 - [Satsto.me](https://satsto.me/) and [TwelveC ash](https://twelve.cash/)
 - [Additive RBF batcher](https://github.com/CardCoins/additive-rbf-batcher/)
 - [Stable Channels website](https://stablechannels.com/)
@@ -109,12 +109,12 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ### Core Lightning
 
 - BOLT12 Offers implementation series
-- [Part 1: offers cleanups #7454](https://github.com/ElementsProject/lightning/pull/7454)
-- [Part 2: connectd onionmessage improvements #7455](https://github.com/ElementsProject/lightning/pull/7455)
-- [Part 3: offers with paths #7456](https://github.com/ElementsProject/lightning/pull/7456)
-- [Part 4: offers for non-public nodes, and handling self-pay #7461](https://github.com/ElementsProject/lightning/pull/7461)
-- [Part 5: experimental range #7474](https://github.com/ElementsProject/lightning/pull/7474)
-- [Part 6: final catchup to latest BOLT spec #7476](https://github.com/ElementsProject/lightning/pull/7476)
+    - [Part 1: offers cleanups #7454](https://github.com/ElementsProject/lightning/pull/7454)
+    - [Part 2: connectd onionmessage improvements #7455](https://github.com/ElementsProject/lightning/pull/7455)
+    - [Part 3: offers with paths #7456](https://github.com/ElementsProject/lightning/pull/7456)
+    - [Part 4: offers for non-public nodes, and handling self-pay #7461](https://github.com/ElementsProject/lightning/pull/7461)
+    - [Part 5: experimental range #7474](https://github.com/ElementsProject/lightning/pull/7474)
+    - [Part 6: final catchup to latest BOLT spec #7476](https://github.com/ElementsProject/lightning/pull/7476)
 
 ### rust-bitcoin & rust-lightning
 
