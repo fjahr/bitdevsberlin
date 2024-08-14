@@ -27,9 +27,9 @@ There are different requirements for presentations depending on the nature of th
 
 ## Deutsch
 
-BitDevs Berlin ist eine Gruppe interessiert an Discussionen rund um Forschung und Entwicklung von Bitcoin und verwandten
-Protocollen. Jeder ist willkommen, egal ob Experte oder absoluter Neuling zu diesen Themen. Aber achtung: unserer Discussionen
-sind meist technischer natur und fast ausnahmslos in Englisch.
+BitDevs Berlin ist eine Gruppe interessiert an Diskussionen rund um die Forschung und Entwicklung von Bitcoin und verwandten Protokollen.
+Jeder ist willkommen, egal ob Experte oder absoluter Neuling in diesen Themen.
+Aber Achtung: unserer Diskussionen sind meist sehr technisch und fast ausnahmslos auf Englisch.
 
 ### Sokratische Seminare
 Unsere monatlichen sokratischen Seminare fordern zum teilen von Informationen, Debatten und angeregten Diskussionen auf. In den
