@@ -16,6 +16,16 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach](https://eprint.iacr.org/2024/1236)
 - [Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)](https://eprint.iacr.org/2024/1299.pdf)
 - [ArtiPACKED: Hacking Giants Through a Race Condition in GitHub Actions Artifacts](https://unit42.paloaltonetworks.com/github-repo-artifacts-leak-tokens/)
+- [SoK: Bitcoin Layer Two (L2)](https://arxiv.org/abs/2409.02650)
+- [DiFastBit: Transaction Differentiation Scheme to Avoid Double-Spending for Fast Bitcoin Payments](https://www.mdpi.com/2227-7390/12/16/2484)
+- [Masters Thesis: Shortcomings of the MiCA Regulation: A Critical Analysis](https://www.diva-portal.org/smash/get/diva2:1883427/FULLTEXT01.pdf)
+- [Multi-class Bitcoin mixing service identification based on graph classification](https://www.sciencedirect.com/science/article/pii/S2352864824001020)
+- [ORBITAAL: A Temporal Graph Dataset of Bitcoin Entity-Entity Transactions](https://arxiv.org/abs/2408.14147)
+- [PhD thesis: Bitcoin as a Sustainable Polycentric Digital Infrastructure](https://research.cbs.dk/en/publications/bitcoin-as-a-sustainable-polycentric-digital-infrastructure)
+- [Script-kidding the Bitcoin blockchain](https://media.ccc.de/v/cosin2024-56240-script-kidding-the-bitco)
+- [PhD thesis: Privacy and Usability Aspects of Public Blockchains](https://repositum.tuwien.at/handle/20.500.12708/200057)
+- [Cryptocurrencies and capital flows: evidence from El Salvador’s adoption of Bitcoin](https://www.tandfonline.com/doi/full/10.1080/13504851.2024.2394201)
+- [The Prohibition of Cryptocurrency in Pakistan and its Justification under Sharia](http://burjis.com/index.php/burjis/article/view/290)
 
 ## Miscellaneous
 
@@ -32,6 +42,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [Bafin Razzia gegen Bitcoinautomaten](https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Pressemitteilung/2024/pm_2024_08_20_Krypto_Automaten.html)
 - [Kleine Anfrage Bundestag Die Linke](https://dserver.bundestag.de/btd/20/126/2012631.pdf)
+- [Kein Handel mit klimaschädlichen Kryptowährungen bei der ZKB](https://al-zh.ch/blog/2024/09/kein-handel-mit-klimaschaedlichen-kryptowaehrungen-bei-der-zkb/)
 
 ## Mailing Lists
 
