@@ -65,6 +65,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ### Bitcoin Core
 
+- [Draft: v28 Release Testing Guide](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/28.0-Release-Candidate-Testing-Guide)
 - [build: Introduce CMake-based build system #30454](https://github.com/bitcoin/bitcoin/pull/30454)
 - [build: Remove Autotools-based build system #30664](https://github.com/bitcoin/bitcoin/pull/30664)
 - [blockstorage: XOR blocksdir *.dat files #28052](https://github.com/bitcoin/bitcoin/pull/28052)
