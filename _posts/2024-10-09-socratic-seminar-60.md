@@ -49,6 +49,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitmain made too many ASIC miners, and no one is buying](https://x.com/theMiningPod/status/1831323103743369359)
 - [Shinigami](https://github.com/keep-starknet-strange/shinigami)
   - [Shinigami Transaction](https://x.com/roasbeef/status/1831794668209893553)
+- [Block Mining Beta update](https://www.mining.build/blog/mdk-beta-update/)
 
 ## Network Data
 
@@ -66,6 +67,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Commerzbank offers Bitcoin](https://www.commerzbank.de/group/newsroom/press-releases/commerzbank-crypto-finance.html)
 - [Antwort kleine Anfrage die Linke](https://dserver.bundestag.de/btd/20/128/2012874.pdf)
 - [Neue Version "Bitcoin Diplom" Arbeitsbuch](https://aprycot.media/wp-content/uploads/Bitcoin-Diplom-Arbeitsbuch-2023.pdf)
+- [BTC++ Conference in Berlin about ecash](https://btcplusplus.dev/conf/berlin24)
+- [Gründung neuer Bitcoin Bundesverband](https://x.com/btcverband/status/1840789333952872798)
 
 ## Mailing Lists
 
