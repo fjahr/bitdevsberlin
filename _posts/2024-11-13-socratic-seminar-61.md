@@ -45,6 +45,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ### bitcoin-dev
 
 - [DLEQ BIP Draft](https://mailing-list.bitcoindevs.xyz/bitcoindev/b0f40eab-42f3-4153-8083-b455fbd17e19n@googlegroups.com/)
+- [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://mailing-list.bitcoindevs.xyz/bitcoindev/CAEM=y+W2jyFoJAq9XrE9whQ7EZG4HRST01TucWHJtBhQiRTSNQ@mail.gmail.com/T/#u)
 
 ### Delving Bitcoin
 
