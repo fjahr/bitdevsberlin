@@ -15,6 +15,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [BCAP: Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://github.com/bitcoin-cap/bcap)
 - [Great Restored Script Interpreter](https://github.com/jonasnick/GreatRSI)
 - [CAT Protocol](https://catprotocol.org/)
+- [Payment Censorship in the Lightning Network Despite Encrypted Communication](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.AFT.2024.12)
 
 ## Miscellaneous
 
