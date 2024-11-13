@@ -66,6 +66,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Disclosure of DoS due to inv-to-send sets growing too large](https://bitcoincore.org/en/2024/10/08/disclose-large-inv-to-send/)
 - [Disclosure of hindered block propagation due to mutated blocks](https://bitcoincore.org/en/2024/10/08/disclose-mutated-blocks-hindering-propagation/)
 - [Disclosure of hindered block propagation due to stalling peers](https://bitcoincore.org/en/2024/11/05/cb-stall-hindering-propagation/)
+- [Ephemeral Dust #30239](https://github.com/bitcoin/bitcoin/pull/30239)
 - [Drop miniupnp dependency #31130](https://github.com/bitcoin/bitcoin/pull/31130)
 - [Remove mempoolfullrbf #30592](https://github.com/bitcoin/bitcoin/pull/30592)
 
