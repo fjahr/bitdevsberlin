@@ -12,6 +12,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [The Engineering Behind DLC Markets: Crafting a Secure and Simple Trading Platform](https://blog.dlcmarkets.com/engineering-behind-dlcmarkets/)
 - [BDK 2024 Q4 Code Audit](https://bitcoindevkit.org/blog/_2024-q4-code-audit/)
 - [Counterparty Partial network outage - Post mortem](https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
+- [Willow 👻](https://x.com/sundarpichai/status/1866167429367468422)
 
 ## Miscellaneous
 
