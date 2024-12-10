@@ -13,6 +13,10 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [BDK 2024 Q4 Code Audit](https://bitcoindevkit.org/blog/_2024-q4-code-audit/)
 - [Counterparty Partial network outage - Post mortem](https://www.counterparty.io/news/counterparty-partial-network-outage-post-mortem/)
 - [Willow 👻](https://x.com/sundarpichai/status/1866167429367468422)
+- [A Tight Analysis of GHOST Consistency](https://eprint.iacr.org/2024/1830)
+- [A Composability Treatment of Bitcoin's Transaction Ledger with Variable Difficulty](https://eprint.iacr.org/2024/1823)
+- [PHD thesis: The Social Layer: An Ethnography of Two Cryptocurrency Communities in the United States](http://etheses.lse.ac.uk/4775/)
+- [Vulnerability Report: Privacy Issue in WabiSabi Protocol](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
 
 ## Miscellaneous
 
@@ -25,6 +29,9 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Ark - Unlocking Liquidity Before Shared Output Expiration](https://arkdev.info/blog/unlock-liquidity-before-shared-output-expiration/)
 - [Ark - Package relay: One free adult with each child](https://blog.second.tech/bitcoin-package-relay-and-ark-protocol/)
 - [Ark - Bitcoin Virtual Channels: Bringing Instant Settlement To Ark](https://arkdev.info/blog/bitcoin-virtual-channels)
+- [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
+- [Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining](https://arxiv.org/abs/2411.11702)
+- [Covenant support wiki page](https://en.bitcoin.it/wiki/Covenants_support)
 
 ## Mailing Lists
 
