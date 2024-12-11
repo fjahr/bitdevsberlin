@@ -32,6 +32,13 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
 - [Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining](https://arxiv.org/abs/2411.11702)
 - [Covenant support wiki page](https://en.bitcoin.it/wiki/Covenants_support)
+- [LNHANCE website](https://www.lnhance.org/)
+- [Bungie targets Kraken-User in effort to expose Destiny 2 cheats](https://torrentfreak.com/bungie-targets-bitcoin-wallet-in-effort-to-expose-destiny-2-cheaters-241207/)
+
+## Europe/Germany/Berlin
+
+- [Relai raises $12 million from EgoDeathCapital](https://x.com/relai_app/status/1866467811398127795)
+- [No capital gains tax on Bitcoin after three years in Czech Republic](https://twitter.com/KristianCsep/status/1864993011785933183)
 
 ## Mailing Lists
 
