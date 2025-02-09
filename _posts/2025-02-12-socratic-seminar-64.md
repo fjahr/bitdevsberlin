@@ -27,7 +27,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Finney Prize for Greg Maxwell and Pieter Wuille](https://hrf.org/program/financial-freedom/finney-prize/)
 - [Doom on Ledger Nano S+](https://old.reddit.com/r/ledgerwallet/comments/1i588r3/play_doom_on_your_ledger_nano_s/)
 - [Bitcoin Core Mutation Testing](https://bitcoincore.space/)
-- [Used tooling](https://github.com/brunoerg/mutation-core)
+  - [Used tooling](https://github.com/brunoerg/mutation-core)
 - [CoreDev Retro 2024](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
 - [Tether Brings USDt to Bitcoin’s Lightning Network, Ushering in a New Era of Unstoppable Technology](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/)
 - [OpenSats: Ninth Wave of Bitcoin Grants](https://opensats.org/blog/ninth-wave-of-bitcoin-grants)
@@ -39,6 +39,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [AnchorWatch Launch](https://x.com/anchorwatch/status/1876297172204888193)
 - [BTCPayServer Accelerating Bitcoin adoption: 2024 in review & 2025 ambitions](https://x.com/BtcpayServer/status/1882090312652255635)
 - [CoinSwap v0.1 Testnet4 launch](https://xcancel.com/citadelfoss/status/1877364560098652173)
+- [El Salvador abandons Bitcoin as legal tender](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment)
 
 ## Network Data
 
