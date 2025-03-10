@@ -34,6 +34,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [UTXOracle](https://utxo.live/oracle/)
 - [Summer of Bitcoin 2025](https://www.summerofbitcoin.org/)
 - [cbip32](https://github.com/jamesob/cbip32)
+- [A Treatise on Bitcoin Block Space Economics](https://blog.lopp.net/treatise-bitcoin-block-space-economics/)
+- [Rebooting P2Pool For Bitcoin](https://blog.opdup.com/2025/02/04/rebooting-p2pool-for-bitcoin.html)
 
 ## Network Data
 
