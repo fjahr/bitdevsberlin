@@ -41,6 +41,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ## Network Data
 
 - [Stats on orphanage overflows](https://delvingbitcoin.org/t/stats-on-orphanage-overflows/1421)
+- [Bitcoin node P2P traffic analysis](https://delvingbitcoin.org/t/bitcoin-node-p2p-traffic-analysis/1490)
 
 ## Mailing Lists
 
