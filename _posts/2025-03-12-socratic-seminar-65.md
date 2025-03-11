@@ -17,6 +17,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [TROPIC01 secure element samples available](https://www.cnx-software.com/2025/03/01/tropic-square-tropic01-is-an-auditable-open-architecture-tamper-proof-risc-v-secure-element-se-for-iot-and-microcontrollers/)
 - [Rethinking bitcoin's energy use through sustainable digital business models and resources monetization: A multiple case study analysis](https://www.sciencedirect.com/science/article/pii/S2666954425000092)
 - [BitVM: How to bridge using 1-of-N trust assumptions](https://storopoli.com/blog/bitvm/)
+- [ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX](https://bitvmx.org/files/esspi-ecdsa-input-bitvmx.pdf)
 - [DIW: Bitcoin is not the new gold](https://www.diw.de/documents/publikationen/73/diw_01.c.938867.de/dwr-25-09-1.pdf)
 - [Bitcoin as Tool for Financial Inclusion in El Salvador: The Perils of Authoritarian Governance](https://journals.sagepub.com/doi/full/10.1177/1866802X251316902)
 - [On the Atomicity and Efficiency of Blockchain Payment Channels](https://eprint.iacr.org/2025/180)
