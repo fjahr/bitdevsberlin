@@ -78,6 +78,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [Consensus Cleanup BIP draft](https://github.com/bitcoin/bips/pull/1800)
 - [BIP-360: QuBit - Pay to Quantum Resistant Hash (Revisit)](https://github.com/bitcoin/bips/pull/1670)
+- [Taplocks - Verifiable but unspendable tapleafs (with an application to emulating new opcodes)](https://github.com/taproot-wizards/taplocks/blob/main/README.md)
 
 ### Bitcoin Core
 
