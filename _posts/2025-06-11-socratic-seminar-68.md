@@ -7,11 +7,14 @@ title: "Socratic Seminar #68"
 
 Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for this meetup!
 
-## Presentation: StratumV2 and DMND (General Kenobi)
+## Presentation: StratumV2 and DMND (General Kenobi, DMND/SV2)
 
-- [StratumV2 Protocol](https://stratumprotocol.org/) 
+- [StratumV2 protocol](https://stratumprotocol.org/features/) 
 - [Demand Pool](https://www.dmnd.work/)
-- [SLICE](https://blog.dmnd.work/slice-making-pplns-work-for-demand-response/)
+- [Understanding SLICE (PPLNS+JD)](https://blog.dmnd.work/understanding-slice-pplns-jd/)
+- [PPLNS with Job Declaration](https://www.dmnd.work/pplns-with-job-declaration/pplns-with-job-declaration.pdf)
+- [SLICE: Making PPLNS Work for Demand Response](https://blog.dmnd.work/slice-making-pplns-work-for-demand-response/)
+
 
 ## Security/CVEs/InfoSec/Research
 
@@ -50,6 +53,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitcoin Payments on Square](https://block.xyz/inside/block-to-roll-out-bitcoin-payments-on-square)
 - [Bitlayer Joins Forces With Antpool, F2Pool, and SpiderPool to Supercharge Bitcoin DeFi](https://www.coindesk.com/business/2025/05/27/bitlayer-joins-forces-with-antpool-f2pool-and-spiderpool-to-supercharge-bitcoin-defi)
 - [The Bitcoin Mempool: Private Mempools](https://bitcoinmagazine.com/technical/the-bitcoin-mempool-private-mempools)
+- [Open letter for CTV+CSFS](https://ctv-csfs.com/)
 
 ## Mailing Lists
 
