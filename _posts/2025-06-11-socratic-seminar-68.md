@@ -81,6 +81,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ### Bitcoin Core
 
+- [policy: uncap datacarrier by default #32406](https://github.com/bitcoin/bitcoin/pull/32406)
 - [Bitcoin Core development and transaction relay policy](https://bitcoincore.org/en/2025/06/06/relay-statement/)
 - [CVE-2024-52919 - Remote crash due to addr message spam (part 2)](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
 - [bitcoind 29.0 much slower than 28.0 on my system #32455](https://github.com/bitcoin/bitcoin/issues/32455)
