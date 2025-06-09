@@ -54,6 +54,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitlayer Joins Forces With Antpool, F2Pool, and SpiderPool to Supercharge Bitcoin DeFi](https://www.coindesk.com/business/2025/05/27/bitlayer-joins-forces-with-antpool-f2pool-and-spiderpool-to-supercharge-bitcoin-defi)
 - [The Bitcoin Mempool: Private Mempools](https://bitcoinmagazine.com/technical/the-bitcoin-mempool-private-mempools)
 - [Open letter for CTV+CSFS](https://ctv-csfs.com/)
+- [Save Our Wallets](https://saveourwallets.org/)
 
 ## Mailing Lists
 
