@@ -41,6 +41,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitmain working on decentralized mining!?](https://x.com/bitmaintech/status/1927581481674670492)
 - [First mobile wallets using Spark (statechains) are live](https://docs.spark.money/spark/spark-tldr): [BlitzWallet](https://Wallet.blitz-wallet.com) and [Wallet of Satoshi](https://x.com/walletofsatoshi/status/1940169795565146571)
 - [A practical example how CTV+CSFS enables Eltoo/Lnsymmetry channels](https://github.com/stutxo/simple_ctv_csfs)
+- [Running bitcoin - From Core to Code - A Comparison of Clients](https://s3.us-east-1.amazonaws.com/1a1z.com/files/1A1z+-+Running+Bitcoin+-+Client+Comparison.pdf)
 
 ## Mailing Lists
 
