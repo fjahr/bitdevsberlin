@@ -19,7 +19,6 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [The Post-Quantum Security of Bitcoin's Taproot as a Commitment Scheme](https://eprint.iacr.org/2025/1307)
 - [Evaluating usage of the Whirlpool Bitcoin privacy protocol](https://www.dci.mit.edu/dci-news/coinjoin-timing-questions)
 - [How Good Are The Widely Used Coinjoin Implementations?](https://petertodd.org/2025/coinjoin-comparison)
-- [PkgZap](https://pkgzap.albylabs.com/)
 
 ## Network Data
 
@@ -44,6 +43,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business](https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
 - [Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts)
 - [Adios, Expiry: Rethinking Liveness and Liquidity in Arkade](https://blog.arklabs.xyz/adios-expiry-rethinking-liveness-and-liquidity-in-arkade/)
+- [PkgZap](https://pkgzap.albylabs.com/)
 
 ## Mailing Lists
 
