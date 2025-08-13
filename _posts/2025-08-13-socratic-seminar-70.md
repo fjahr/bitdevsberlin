@@ -44,6 +44,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Tornado Cash Trial Concludes: Roman Storm Found Guilty on One of Three Counts](https://bitcoinmagazine.com/news/tornado-cash-trial-concludes-roman-storm-found-guilty-of-one-of-three-counts)
 - [Adios, Expiry: Rethinking Liveness and Liquidity in Arkade](https://blog.arklabs.xyz/adios-expiry-rethinking-liveness-and-liquidity-in-arkade/)
 - [PkgZap](https://pkgzap.albylabs.com/)
+- [Qubic Overtakes Monero’s Hash Rate in Live “51% Takeover Demo”](https://qubic.org/pr/qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo)
 
 ## Mailing Lists
 
