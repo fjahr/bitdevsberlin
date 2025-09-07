@@ -37,6 +37,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [3 Years of Vinteum](https://vinteum.org/wp-content/uploads/2025/08/vinteum-3-years-EN.pdf)
 - [Pubky](https://www.pubky.org/)
 - [Blockfilter Desing Guide](https://rustaceanrob.com/blog/13-cbf-design)
+- [Privacy needs to be baked into L1](https://frankbraun.org/layer1/)
 - [On the privacy of shielded L2s](https://lightco.in/2025/08/12/shielded-l2s/)
 - [Ledger offers MEV protection tool](https://support.ledger.com/article/How-to-protect-your-transactions-from-Maximal-Extractable-Value-MEV-attacks)
 
