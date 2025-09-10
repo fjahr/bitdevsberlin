@@ -22,6 +22,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Bitcoin Core Code: C++, some Python and a Custom Build System](https://binaryigor.com/bitcoin-core-code.html)
 - [Infiltrated Selfish Mining: Think Win-Win to Escape Dilemmas](https://dl.acm.org/doi/10.1145/3708821.3736191)
 - [Not in The Prophecies: Practical Attacks on Nostr](https://eprint.iacr.org/2025/1459.pdf)
+- [Anatomy of a Billion-Download NPM Supply-Chain Attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
 
 ## Network Data
 
@@ -60,6 +61,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ### Bitcoin Core
 
+- [index: Fix coinstats overflow #30469](https://github.com/bitcoin/bitcoin/pull/30469)
 - [Add bitcoin-{node,gui} to release binaries for IPC #31802](https://github.com/bitcoin/bitcoin/pull/31802)
 - [net, validation: don't punish peers for consensus-invalid txs #33050](https://github.com/bitcoin/bitcoin/pull/33050)
 - [policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee #33106](https://github.com/bitcoin/bitcoin/pull/33106)
