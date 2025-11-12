@@ -28,7 +28,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Europe/Germany/Berlin
 
-- [Anhörung zur Umsetzung der Richtlinie (EU) 2023/2226](https://www.bundestag.de/ausschuesse/a07_finanzen/wp21_a07_Anhoerungen/1113244-1113244)
+- [Gesetz zur Umsetzung der Richtlinie (EU) 2023/2226](https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-kryptowerte-1118558)
 - [Berlin Freedom Week](https://berlin-freedom-week.com/en/program)
 - [SPD Seeheimer Kreis wants to abolish 1-year tax free regulation](https://www.seeheimer-kreis.de/fileadmin/data/20251027_Seeheimer_Strategiepapier_Finanzen.pdf)
 - [AFD-Antrag im Bundestag: Strategisches Potenzial von Bitcoin erkennen](https://dserver.bundestag.de/btd/21/023/2102301.pdf)
@@ -51,6 +51,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Arkade.money](https://arkade.money/)
 - [The State of Bitcoin Mining in Russia](https://www.hashlabs.io/blog/the-state-of-bitcoin-mining-in-russia)
 - [papa-swap](https://github.com/supertestnet/papa-swap)
+- [https://www.therage.co/keonne-rodriguez-samourai-sentenced/](Samourai Wallet sentence)
 
 ## Mailing Lists
 
