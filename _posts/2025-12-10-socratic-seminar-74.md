@@ -11,6 +11,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ## Security/CVEs/InfoSec/Research
 
 - [An Independent Security Audit of Bitcoin Core](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
+- [Hash-based Signature Schemes for Bitcoin](https://eprint.iacr.org/2025/2203.pdf)
 - [Golden: Lightweight Non-Interactive Distributed Key Generation](https://eprint.iacr.org/2025/1924)
 - [Payment-failure times for random Lightning paths](https://arxiv.org/abs/2511.16376)
 - [When Can You Trust Bitcoin? Value-Dependent Block Confirmation to Determine Transaction Finality](https://arxiv.org/abs/2511.15421)
@@ -39,6 +40,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Miscellaneous
 
+- [Project 11](https://www.projecteleven.com/)
 - [RawBit Tool](https://rawbit.io/)
 - [Penlock](https://v1.penlock.io/en/)
 - [Mempal Android App](https://github.com/aeonBTC/Mempal)
