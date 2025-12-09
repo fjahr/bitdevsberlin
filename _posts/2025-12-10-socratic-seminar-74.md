@@ -41,6 +41,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ## Miscellaneous
 
 - [Project 11](https://www.projecteleven.com/)
+- [Quantum Doomsday Clock](https://quantumdoomclock.com/)
 - [RawBit Tool](https://rawbit.io/)
 - [Penlock](https://v1.penlock.io/en/)
 - [Mempal Android App](https://github.com/aeonBTC/Mempal)
@@ -49,7 +50,6 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [BNOC Forum](https://bnoc.xyz/t/why-not-use-delvingbitcoin-org-for-bnoc/23)
 - [Bitcoin Core Roadmap question](https://x.com/bitschmidty/status/1986100498567499789)
 - [Keymeld](https://github.com/tee8z/keymeld)
-- [Quantum Doomsday Clock](https://quantumdoomclock.com/)
 - [Ordiknots](https://github.com/taproot-wizards/ordiknots)
 
 ## Mailing Lists
