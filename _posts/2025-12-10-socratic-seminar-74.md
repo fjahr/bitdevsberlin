@@ -37,6 +37,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Berlin Bitcoin Mining meetup Thursday, December 11](https://www.meetup.com/bitcoin_berlin_/events/311958983/)
 - [Wirecard Scandal: Fresh Leads Point to a Gambling Kingpin](https://www.tagesschau.de/investigativ/br-recherche/wirecard-marsalek-braun-calvin-ayre-102.html)
 - [BTC is money](https://btcismoney.xyz/)
+- [Petition to pardon Samourai Wallet devs](https://billandkeonne.org/) ([case background](https://x.com/jtevelow/status/1997748792939127114))
 
 ## Miscellaneous
 
