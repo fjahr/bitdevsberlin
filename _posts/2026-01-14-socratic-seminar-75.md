@@ -35,7 +35,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Miscellaneous
 
-- [OpenSats canary]()https://github.com/OpenSats/website/issues/533
+- [OpenSats canary](https://github.com/OpenSats/website/issues/533)
 - [Bitmap minter](https://x.com/mononautical/status/2000141959201992829)
 - [8M investment in Speedwallet](https://x.com/egodeathcapital/status/2000923268174536905)
 - [Bitcoin Design Impact Initiatives 2026](https://bitcoin.design/projects/)
