@@ -48,6 +48,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Distributed Charge - EV Now Available For Public Testing](http://andyschroder.com/DistributedCharge/news/2025-12-19-PublicTesting/)
 - [64-byte Transactions](https://www.bitmex.com/blog/64-Byte-Transactions)
 - [Fedi goes open source](https://www.fedi.xyz/blog/fedi-goes-open-source)
+- [Take the Money and Run (OneCoin TV show)](https://www.zdf.de/serien/take-the-money-and-run-100)
 
 ## Mailing Lists
 
