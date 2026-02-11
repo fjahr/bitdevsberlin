@@ -61,6 +61,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [A Mathematical Theory of Payment Channel Networks](https://delvingbitcoin.org/t/a-mathematical-theory-of-payment-channel-networks/2204)
 - [Hornet UTXO(1): A custom, constant-time, highly parallel UTXO database](https://delvingbitcoin.org/t/hornet-utxo-1-a-custom-constant-time-highly-parallel-utxo-database/2201)
 - [SHRINCS: 324-byte stateful post-quantum signatures with static backups](https://delvingbitcoin.org/t/shrincs-324-byte-stateful-post-quantum-signatures-with-static-backups/2158)
+- [Bitcoin Lightning Wallets as Abstracted Accounts in EVM Protocols](https://delvingbitcoin.org/t/bitcoin-lightning-wallets-as-abstracted-accounts-in-evm-protocols/2152)
+- [BIP 119 CTV activation client](https://delvingbitcoin.org/t/bip-119-ctv-activation-client/2242)
 
 ## Pull requests
 
@@ -76,6 +78,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [drop my key from trusted-keys#34517](https://github.com/bitcoin/bitcoin/pull/34517)
 - [Package Relay Project Tracking](https://github.com/bitcoin/bitcoin/issues/27463)
+- [RFC: Erlay Conceptual Discussion #34542](https://github.com/bitcoin/bitcoin/issues/34542)
 - [Broadcast own transactions only via short-lived Tor or I2P connections](https://github.com/bitcoin/bitcoin/pull/29415)
 - [p2p: Allow block downloads from peers without snapshot block after assumeutxo validation](https://github.com/bitcoin/bitcoin/pull/33604)
 - [kernel: Add block header support and validation](https://github.com/bitcoin/bitcoin/pull/33822)
