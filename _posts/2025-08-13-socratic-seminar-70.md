@@ -32,7 +32,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Miscellaneous
 
-- [How secure is your Bitcoin wallet's mnemonic seed phrase?](https://bennet.org/blog/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
+- [How secure is your Bitcoin wallet's mnemonic seed phrase?](https://bennet.org/learn/how-secure-is-your-bitcoin-wallets-mnemonic-seed-phrase/)
 - [Current state of sub 1 sat/vbyte summer](https://x.com/mononautical/status/1947530080475091159)
 - [Block: Policies to Unlock Bitcoin as Everyday Money](https://block.xyz/inside/policies-to-unlock-bitcoin-as-everyday-money)
 - [Payjoin Foundation announcement](https://insider.btcpp.dev/p/the-payjoin-foundation-is-announced)
