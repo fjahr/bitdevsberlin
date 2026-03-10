@@ -18,6 +18,12 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Fix the money, fix the world: bitcoin as techno-libertarian religion](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 - [GPU-Accelerated Bitcoin Key Recovery from Weak Entropy Sources](https://b4q.io/research)
 - [Unfaithful Claims: Breaking 6 zkVMs](https://osec.io/blog/2026-03-03-zkvms-unfaithful-claims/)
+- [Ghana's Gold Curse and Extractive Mechanisms in Neocolonialism](https://www.bitcoininstitute.ch/research/SBI-009)
+- [Bitcoin PIPEs v2](https://eprint.iacr.org/2026/186)
+- [WOTS-Tree: Merkle-Optimized Winternitz Signatures for Post-Quantum Bitcoin](https://eprint.iacr.org/2026/374)
+- [How To Make Delegated Payments on Bitcoin: A Question for the AI Agentic Future](https://eprint.iacr.org/2026/395)
+- [Taler as a synthetic Central Bank Digital Currency](https://grothoff.org/christian/2026-scbdc.pdf)
+- [Proof of work: what Bitcoin mining really does](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
 
 ## Network Data
 
@@ -49,6 +55,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Open-Source Agents Need to Get Serious About Payments](https://x.com/TheBlueMatt/status/2026667191475777727)
 - [Alby Bitcoin Payments Agent Skill](https://github.com/getAlby/alby-agent-skill)
 - [Lightning Agent Tools](https://github.com/lightninglabs/lightning-agent-tools)
+- [SatsAPI](https://satsapi.dev/)
 
 
 ## Mailing Lists
