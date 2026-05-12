@@ -40,6 +40,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ## Miscellaneous
 
+- [Knotzi Death March](https://jlopp.github.io/knotzi-death-march/)
 - [RIP Bitnodes](https://x.com/lopp/status/2052725200421286301)
 - [Ecash.com - BIP300 Fork](https://ecash.com/)
 - [Annoucement](https://x.com/truthcoin/status/2047639261453680838?s=46)
