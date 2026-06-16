@@ -18,6 +18,10 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Private Broadcast May Reveal Sender IP Address in Bitcoin Core 31.0](https://bitcoincore.org/en/2026/06/06/privatebroadcast-ip-leak/)
 - [Zcash: The Orchard Counterfeiting Vulnerability](https://x.com/zooko/status/2062644925590900980)
 - [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
+- [Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix](https://b10c.me/projects/027-bitcoind-gunix-match/)
+- [Mined in America Act Would Put Bitcoin Network at Risk](https://www.therage.co/mined-in-america-act-bitcoin-at-risk/)
+- [LNTest: A Testbed for Evaluating Bitcoin Lightning Network-Based Botnets](https://arxiv.org/abs/2606.12887)
+- [Bitcoin After Block Rewards](https://arxiv.org/abs/2606.05503)
 
 ## Network Data
 
@@ -28,6 +32,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [Fremde Bitcoin per Gerichtsurteil? Kläger wollen Eigentum an fast 40.000 Wallets](https://www.blocktrainer.de/blog/fremde-bitcoin-per-gerichtsurteil-klaeger-wollen-eigentum-an-fast-40000-wallets)
 - [Bitcoin Bundesverband: Pro Haltefrist](https://prohaltefrist.de/)
+- [Bitcoin Privacy event ₿rivat](https://pretix.eu/fulmo/brivat/)
 
 ## Miscellaneous
 
@@ -45,6 +50,10 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Secure Fountain Codes](https://x.com/roasbeef/status/1973914845247594840)
 - [Roulette in a Bitcoin Payment Channel](https://gist.github.com/RobinLinus/01d4f40a1d0785fd2d16f7e84f20332d)
 - [Toughts on Gaming on Bitcoin](https://x.com/bramcohen/status/2063316914282410251)
+- [Bitcoin Manga](https://bitcoinbacheen.com/Manga/en/viewer.html)
+- [Kick Sats](https://kicksats.com/)
+- [ChainQuery: Bitcoin Fee Pressure](https://chainquery.com/reports/fee-pressure)
+- [LearnBitcoin Journey](https://www.learnbitcoin.com/journey)
 
 ## Mailing Lists
 
