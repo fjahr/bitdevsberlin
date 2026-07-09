@@ -12,6 +12,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [TwoStepDemocracy: Prototyping of self-evolving, democratic, and decentralized systems](https://arxiv.org/abs/2606.25559)
 - [HOWLR: A Client-Driven Approach to BGP Hijack Detection](https://arxiv.org/abs/2606.21845)
 - [LND Gossip Nil-Map Panic on Zero-Timestamp Messages](https://lightning.community/SI/2026/06/18/lnd-zero-timestamp-gossip-dos.html)
+- [Researchers Create Self-Replicating Seedbox in Quest for Decentralized Democracy](https://torrentfreak.com/researchers-create-self-replicating-seedbox-in-quest-for-decentralized-democracy/)
+- [No Country for Old Privacy: The Evolving Challenges of Anonymity in Bitcoin](https://arxiv.org/abs/2607.00772)
 
 ## Network Data
 
@@ -30,6 +32,9 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Rusty leaving Blockstream and core-lightning](https://blog.blockstream.com/rusty-russell-eleven-years-of-lightning-at-blockstream/)
 - [Centure Metadata](https://x.com/centurymetadata/status/2066308809031856264?s=20)
 - [PlebGPT](https://x.com/rot13maxi/status/2061245699178598587)
+- [Open Standard Open USD](https://joinopenstandard.com/blog/introducing-open-usd)
+- [BIP110 to happen before our next meetup](https://bip110.org/monitor)
+- [On the Lack of Replay Protection](https://murch.one/posts/replay-protection/)
 
 ## Mailing Lists
 
@@ -37,6 +42,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 - [Aligning privacy incentives in P2MR](https://groups.google.com/g/bitcoindev/c/p8AVEmAtWdA)
 - [Giving teeth to expected EC disabling: P2XX(-T)(-ML)](https://groups.google.com/g/bitcoindev/c/aWYtPLVPZ3U/m/htpzI5r3AgAJ)
+- [BIP draft: Full-Aggregation of BIP 340 Signatures](https://groups.google.com/g/bitcoindev/c/TF5mPfy58RQ)
 
 ### Delving Bitcoin
 
