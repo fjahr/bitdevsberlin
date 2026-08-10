@@ -26,6 +26,7 @@ Note: There will be a [partial solar eclipse](https://de.wikipedia.org/wiki/Sonn
 - [Technical Deep Dive into the Entropy Issue](https://blog.coinkite.com/entropy-technical-backgrounder/)
 - [Wizardsardine Report on ColdCard](https://wizardsardine.com/blog/coldcard-rng-vulnerability/)
 - [Entropy visualizer](https://hashexplained.com/entropy)
+- [Coldcard Watch](https://coldcardwatch.com/)
 - [CK Tripwire](https://cktripwire.com/)
 - [Security Advisory: Update BTCPay Server to 2.4.2 Immediately](https://blog.btcpayserver.org/[118;1:3usecurity-advisory-btcpay-server-2-4-2/)
 - [Red Teaming Bitcoin](https://x.com/callebtc/status/2085024458012586286)
