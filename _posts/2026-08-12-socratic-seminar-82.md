@@ -16,6 +16,7 @@ Note: There will be a [partial solar eclipse](https://de.wikipedia.org/wiki/Sonn
 - [Current user agents on the network](https://bitnod.es/)
 - [Choosing the Core chain? Here is how to switch](https://bip110.org/change-chains/)
 - [Does a soft fork always succeed?](https://bitcoin.stackexchange.com/questions/130775/does-a-softfork-always-succeed)
+- [Testnet4 picks new PoW Algorithm](https://x.com/coinjoined/status/2087145713947811891)
 
 ## Special: Coldcard Hack and Fallout
 
@@ -25,6 +26,7 @@ Note: There will be a [partial solar eclipse](https://de.wikipedia.org/wiki/Sonn
 - [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
 - [Technical Deep Dive into the Entropy Issue](https://blog.coinkite.com/entropy-technical-backgrounder/)
 - [Wizardsardine Report on ColdCard](https://wizardsardine.com/blog/coldcard-rng-vulnerability/)
+- [Wizardsardine Deep Dive](https://wizardsardine.com/blog/coldcard-vuln-deep-dive/)
 - [Entropy visualizer](https://hashexplained.com/entropy)
 - [Coldcard Watch](https://coldcardwatch.com/)
 - [CK Tripwire](https://cktripwire.com/)
@@ -60,6 +62,7 @@ Note: There will be a [partial solar eclipse](https://de.wikipedia.org/wiki/Sonn
 - [Notice of ICANN .bitcoin TLD community application](https://x.com/wiz/status/2085029140453830725)
 - [Bitcoin Antithesis](https://github.com/dergoegge/bitcoin-antithesis)
 - [Introducing Bedrock: A Deterministic Hypervisor](https://brink.dev/blog/2026/06/25/bedrock-deterministic-hypervisor/)
+- [Working on incremental snapshots](https://crypt-iq.github.io/2026/08/07/incrementalsnapshots.html)
 - [Bitcoin Security Consortium](https://x.com/BTCconsortium/status/2080262540047585543)
 - [BitMEX shuts down](https://www.bitmex.com/blog/bitmex-closure)
 - [ElectrumX 2.0 release](https://electrumx-spesmilo.readthedocs.io/en/latest/changelog.html#version-2-0-0-03-july-2026)
@@ -79,6 +82,7 @@ Note: There will be a [partial solar eclipse](https://de.wikipedia.org/wiki/Sonn
 
 ### Delving Bitcoin
 
+- [Libshrincs: A C implementation with a machine-checked security proof](https://delvingbitcoin.org/t/libshrincs-a-c-implementation-with-a-machine-checked-security-proof/2795/1)
 - [Segwit commitment to post-quantum witness data?](https://delvingbitcoin.org/t/segwit-commitment-to-post-quantum-witness-data/2702)
 - [PQC output type discussion](https://delvingbitcoin.org/t/pqc-output-type-discussion/2749)
 - [Expiring HTLCs without free relay](https://delvingbitcoin.org/t/expiring-htlcs-without-free-relay/2663)
