@@ -95,4 +95,4 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 
 ### Others
 
-- [Harden API key storage #7561](https://github.com/btcpayserver/btcpayserver/pull/7561
+- [Harden API key storage #7561](https://github.com/btcpayserver/btcpayserver/pull/7561)
