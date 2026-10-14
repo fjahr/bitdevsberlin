@@ -18,6 +18,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Disclosure: DoS vulnerabilities fixed in Eclair v0.14.1](https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-1/2928/1)
 - [Blink: The September 19 Attack — The Facts, The Full Story and Announcing The 50% Bounty (up to 3.3 bitcoin)](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
 - [Alby vulnerability](https://x.com/getAlby/status/2097574956049498150)
+- [Ledger Nano x Spy Implant](https://www.tibane.net/research/ledger-nano-x-implant)
 
 ## Network Data
 
