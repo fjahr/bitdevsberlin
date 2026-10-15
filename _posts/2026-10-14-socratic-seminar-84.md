@@ -18,7 +18,10 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Disclosure: DoS vulnerabilities fixed in Eclair v0.14.1](https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-1/2928/1)
 - [Blink: The September 19 Attack — The Facts, The Full Story and Announcing The 50% Bounty (up to 3.3 bitcoin)](https://www.blink.sv/blog/sept-19-attack-postmortem-and-bounty)
 - [Alby vulnerability](https://x.com/getAlby/status/2097574956049498150)
-- [Ledger Nano x Spy Implant](https://www.tibane.net/research/ledger-nano-x-implant)
+- [Ledger Nano X Spy Implant research](https://www.tibane.net/research/ledger-nano-x-implant)
+- [Ledger hardware implants](https://x.com/Ledger_Support/status/2108968264055345381)
+- [Ledger hardware implants from May](https://grandideastudio.com/media/ledger_hardware_implant_slides.pdf)
+- [Zark](https://hackmd.io/@januszgrze/HJlHensozl)
 
 ## Network Data
 
@@ -27,6 +30,7 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 ## Local/Legal
 
 - [CDU/CSU against Bitcoin tax?](https://www.blocktrainer.de/blog/laut-bild-informationen-cdu/csu-finanzpolitiker-stellen-sich-gegen-bitcoin-steuer)
+- [Bundestag Petition Haltefrist](https://www.bundestag.de/dokumente/textarchiv/2026/kw42-pa-petitionen-1221702)
 
 ## Miscellaneous
 
@@ -38,6 +42,8 @@ Thanks to [Ordimint](https://ordimint.com) for sponsoring food and drinks for th
 - [Payjoin in Bark](https://second.tech/blog/payjoin-boards-board-psbt/)
 - [covenants.diy](https://covenants.diy/)
 - [Something's been bugging me](https://www.dergoegge.de/blog/somethings-been-bugging-me.html)
+- [Slate: The People—OK, the Men—Who Still Love Bitcoin](https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html)
+- [Bitcoin Spaces](https://bitsaga.be/insights/bitcoin-spaces)
 
 ## Mailing Lists
 
