@@ -16,12 +16,13 @@ things are. Please inform us if you find broken or outdated links.
 - [BIPs](https://github.com/bitcoin/bips): Bitcoin improvement proposals, where new ideas for Bitcoin formally proposed
 - [Bitcoin-dev Mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 - [Secp256k1](https://github.com/bitcoin-core/secp256k1/pull/558): Elliptic Curve cryptography library used by Bitcoin Core
-- [Bitcoin.org Developer Guide](https://bitcoin.org/en/developer-guide): Higher level technical guides
+- [Bitcoin.org Developer Guide](https://developer.bitcoin.org/devguide/): Higher level technical guides
+- [LearnBitcoin Rabbit Holes](https://www.learnbitcoin.com/rabbit-holes): Sourced deep dives, one Bitcoin concept at a time
 - [Jameson Lopp's Bitcoin Page](https://lopp.net/bitcoin): List of resources collected by Jameson Lopp
 
 ## Lightning
 - [Original Lightning Network Whitepapeer](https://lightning.network/lightning-network-paper.pdf)
-- [Deployable Lightning Whitepaper](https://github.com/ElementsProject/lightning/blob/master/doc/deployable-lightning.pdf): Follow-up paper by Rusty Russel
+- [Deployable Lightning Whitepaper](https://github.com/ElementsProject/lightning/blob/master/doc/miscellaneous/deployable-lightning.pdf): Follow-up paper by Rusty Russel
 - [Eltoo Whitepaper](https://blockstream.com/eltoo.pdf)
 - [Lightning RFCs](https://github.com/lightningnetwork/lightning-rfc): Lightning Network specification (aka BOLTs)
 - [LND](https://github.com/lightningnetwork/lnd): One of the major implementations, written in Go by Lightning Labs
@@ -31,7 +32,7 @@ things are. Please inform us if you find broken or outdated links.
 
 ## Other Socratic Seminars
 - [New York](https://bitdevs.org/)
-- [San Francisco](https://www.sfbitcoindevs.org/)
+- [San Francisco](https://sfbitcoindevs.org/)
 
 ## MISC
 - [Bitcoin Optech](https://bitcoinops.org/): Newsletter and overall technical information resource
