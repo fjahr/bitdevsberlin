@@ -122,7 +122,7 @@ Thanks to [nummyx](https://nummyx.com) and [NadaNada](https://nadanada.me) for s
 
 ### Core Lightning
 
-- [v26.06.9 Quantum-Resistant Lightning Channel VI](https://github.com/ElementsProject/lightning/releases/tag/v26.06.10)
+- [v26.06.10 Quantum-Resistant Lightning Channel VII](https://github.com/ElementsProject/lightning/releases/tag/v26.06.10)
 - [v26.06.9 Quantum-Resistant Lightning Channel VI](https://github.com/ElementsProject/lightning/releases/tag/v26.06.9)
 - [Unverified dual funding tx signatures #9575](https://github.com/ElementsProject/lightning/pull/9575)
 
