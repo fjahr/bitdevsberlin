@@ -5,7 +5,7 @@ title: "Socratic Seminar #85"
 
 [Meetup](https://www.meetup.com/bitcoin-lab-berlin/events/316408820/)
 
-Thanks to [nummyx](https://nummyx.com) and [Ordimint](https://ordimint.com) for sponsoring food and drinks for this meetup!
+Thanks to [nummyx](https://nummyx.com) and [NadaNada](https://nadanada.me) for sponsoring food and drinks for this meetup!
 
 ## Security
 
